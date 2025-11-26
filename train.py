@@ -83,7 +83,8 @@ def train():
         print(f"✅ Epoch {epoch+1} Complete. Avg Loss: {total_loss/len(dataloader):.4f}")
 
     print("💾 Saving model...")
-    model.save_pretrained(OUTPUT_DIR)
+    # safe_serialization=False ensures it saves as 'pytorch_model.bin' to match your git lfs track "*.bin"
+    model.save_pretrained(OUTPUT_DIR, safe_serialization=False)
     tokenizer.save_pretrained(OUTPUT_DIR)
     print(f"🎉 Model saved to {OUTPUT_DIR}")
 
