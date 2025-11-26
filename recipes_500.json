@@ -1,0 +1,2002 @@
+[
+  {
+    "ingredients": "Fish, Carrot, Pasta, Pepper",
+    "recipe": "Saut\u00e9ed Fish with Carrot and Pasta: 1. Prepare the Fish and Carrot. 2. Heat pan and add Pepper. 3. Saut\u00e9 the Fish for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Chicken, Onion, Rice, Cumin",
+    "recipe": "Saut\u00e9ed Chicken with Onion and Rice: 1. Prepare the Chicken and Onion. 2. Heat pan and add Cumin. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Onion and serve with Rice."
+  },
+  {
+    "ingredients": "Fish, Onion, Quinoa, Ginger",
+    "recipe": "Saut\u00e9ed Fish with Onion and Quinoa: 1. Prepare the Fish and Onion. 2. Heat pan and add Ginger. 3. Saut\u00e9 the Fish for 10 mins. 4. Add Onion and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Peas, Quinoa, Pepper",
+    "recipe": "Boiled Paneer with Peas and Quinoa: 1. Prepare the Paneer and Peas. 2. Heat pan and add Pepper. 3. Boil the Paneer for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Chicken, Bell Pepper, Rice, Cumin",
+    "recipe": "Grilled Chicken with Bell Pepper and Rice: 1. Prepare the Chicken and Bell Pepper. 2. Heat pan and add Cumin. 3. Grill the Chicken for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Spinach, Rice, Ginger",
+    "recipe": "Boiled Egg with Spinach and Rice: 1. Prepare the Egg and Spinach. 2. Heat pan and add Ginger. 3. Boil the Egg for 10 mins. 4. Add Spinach and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Onion, Pasta, Salt",
+    "recipe": "Bakeed Tofu with Onion and Pasta: 1. Prepare the Tofu and Onion. 2. Heat pan and add Salt. 3. Bake the Tofu for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Egg, Tomato, Noodles, Soy Sauce",
+    "recipe": "Grilled Egg with Tomato and Noodles: 1. Prepare the Egg and Tomato. 2. Heat pan and add Soy Sauce. 3. Grill the Egg for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Egg, Carrot, Quinoa, Soy Sauce",
+    "recipe": "Saut\u00e9ed Egg with Carrot and Quinoa: 1. Prepare the Egg and Carrot. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Egg for 10 mins. 4. Add Carrot and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Spinach, Rice, Garlic",
+    "recipe": "Bakeed Beef with Spinach and Rice: 1. Prepare the Beef and Spinach. 2. Heat pan and add Garlic. 3. Bake the Beef for 10 mins. 4. Add Spinach and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Onion, Quinoa, Salt",
+    "recipe": "Grilled Chicken with Onion and Quinoa: 1. Prepare the Chicken and Onion. 2. Heat pan and add Salt. 3. Grill the Chicken for 10 mins. 4. Add Onion and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Peas, Quinoa, Garlic",
+    "recipe": "Steamed Fish with Peas and Quinoa: 1. Prepare the Fish and Peas. 2. Heat pan and add Garlic. 3. Steam the Fish for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Peas, Bread, Salt",
+    "recipe": "Bakeed Fish with Peas and Bread: 1. Prepare the Fish and Peas. 2. Heat pan and add Salt. 3. Bake the Fish for 10 mins. 4. Add Peas and serve with Bread."
+  },
+  {
+    "ingredients": "Paneer, Potato, Rice, Soy Sauce",
+    "recipe": "Saut\u00e9ed Paneer with Potato and Rice: 1. Prepare the Paneer and Potato. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Paneer for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Spinach, Quinoa, Cumin",
+    "recipe": "Saut\u00e9ed Chicken with Spinach and Quinoa: 1. Prepare the Chicken and Spinach. 2. Heat pan and add Cumin. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Spinach and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Spinach, Rice, Cumin",
+    "recipe": "Grilled Egg with Spinach and Rice: 1. Prepare the Egg and Spinach. 2. Heat pan and add Cumin. 3. Grill the Egg for 10 mins. 4. Add Spinach and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Spinach, Noodles, Ginger",
+    "recipe": "Bakeed Beef with Spinach and Noodles: 1. Prepare the Beef and Spinach. 2. Heat pan and add Ginger. 3. Bake the Beef for 10 mins. 4. Add Spinach and serve with Noodles."
+  },
+  {
+    "ingredients": "Chicken, Onion, Rice, Turmeric",
+    "recipe": "Bakeed Chicken with Onion and Rice: 1. Prepare the Chicken and Onion. 2. Heat pan and add Turmeric. 3. Bake the Chicken for 10 mins. 4. Add Onion and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Peas, Pasta, Cumin",
+    "recipe": "Grilled Chicken with Peas and Pasta: 1. Prepare the Chicken and Peas. 2. Heat pan and add Cumin. 3. Grill the Chicken for 10 mins. 4. Add Peas and serve with Pasta."
+  },
+  {
+    "ingredients": "Chicken, Peas, Quinoa, Soy Sauce",
+    "recipe": "Boiled Chicken with Peas and Quinoa: 1. Prepare the Chicken and Peas. 2. Heat pan and add Soy Sauce. 3. Boil the Chicken for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Tofu, Spinach, Rice, Ginger",
+    "recipe": "Grilled Tofu with Spinach and Rice: 1. Prepare the Tofu and Spinach. 2. Heat pan and add Ginger. 3. Grill the Tofu for 10 mins. 4. Add Spinach and serve with Rice."
+  },
+  {
+    "ingredients": "Paneer, Peas, Quinoa, Turmeric",
+    "recipe": "Bakeed Paneer with Peas and Quinoa: 1. Prepare the Paneer and Peas. 2. Heat pan and add Turmeric. 3. Bake the Paneer for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Tofu, Carrot, Quinoa, Turmeric",
+    "recipe": "Bakeed Tofu with Carrot and Quinoa: 1. Prepare the Tofu and Carrot. 2. Heat pan and add Turmeric. 3. Bake the Tofu for 10 mins. 4. Add Carrot and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Onion, Pasta, Cumin",
+    "recipe": "Grilled Beef with Onion and Pasta: 1. Prepare the Beef and Onion. 2. Heat pan and add Cumin. 3. Grill the Beef for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Carrot, Pasta, Soy Sauce",
+    "recipe": "Fryed Fish with Carrot and Pasta: 1. Prepare the Fish and Carrot. 2. Heat pan and add Soy Sauce. 3. Fry the Fish for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Onion, Rice, Soy Sauce",
+    "recipe": "Grilled Beef with Onion and Rice: 1. Prepare the Beef and Onion. 2. Heat pan and add Soy Sauce. 3. Grill the Beef for 10 mins. 4. Add Onion and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Tomato, Rice, Garlic",
+    "recipe": "Bakeed Beef with Tomato and Rice: 1. Prepare the Beef and Tomato. 2. Heat pan and add Garlic. 3. Bake the Beef for 10 mins. 4. Add Tomato and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Bell Pepper, Quinoa, Cumin",
+    "recipe": "Saut\u00e9ed Tofu with Bell Pepper and Quinoa: 1. Prepare the Tofu and Bell Pepper. 2. Heat pan and add Cumin. 3. Saut\u00e9 the Tofu for 10 mins. 4. Add Bell Pepper and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Potato, Pasta, Cumin",
+    "recipe": "Saut\u00e9ed Egg with Potato and Pasta: 1. Prepare the Egg and Potato. 2. Heat pan and add Cumin. 3. Saut\u00e9 the Egg for 10 mins. 4. Add Potato and serve with Pasta."
+  },
+  {
+    "ingredients": "Chicken, Tomato, Pasta, Ginger",
+    "recipe": "Bakeed Chicken with Tomato and Pasta: 1. Prepare the Chicken and Tomato. 2. Heat pan and add Ginger. 3. Bake the Chicken for 10 mins. 4. Add Tomato and serve with Pasta."
+  },
+  {
+    "ingredients": "Tofu, Potato, Quinoa, Soy Sauce",
+    "recipe": "Bakeed Tofu with Potato and Quinoa: 1. Prepare the Tofu and Potato. 2. Heat pan and add Soy Sauce. 3. Bake the Tofu for 10 mins. 4. Add Potato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Potato, Quinoa, Turmeric",
+    "recipe": "Grilled Egg with Potato and Quinoa: 1. Prepare the Egg and Potato. 2. Heat pan and add Turmeric. 3. Grill the Egg for 10 mins. 4. Add Potato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Tomato, Bread, Turmeric",
+    "recipe": "Grilled Fish with Tomato and Bread: 1. Prepare the Fish and Tomato. 2. Heat pan and add Turmeric. 3. Grill the Fish for 10 mins. 4. Add Tomato and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Tomato, Noodles, Ginger",
+    "recipe": "Steamed Chicken with Tomato and Noodles: 1. Prepare the Chicken and Tomato. 2. Heat pan and add Ginger. 3. Steam the Chicken for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Chicken, Potato, Quinoa, Cumin",
+    "recipe": "Steamed Chicken with Potato and Quinoa: 1. Prepare the Chicken and Potato. 2. Heat pan and add Cumin. 3. Steam the Chicken for 10 mins. 4. Add Potato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Spinach, Rice, Garlic",
+    "recipe": "Boiled Paneer with Spinach and Rice: 1. Prepare the Paneer and Spinach. 2. Heat pan and add Garlic. 3. Boil the Paneer for 10 mins. 4. Add Spinach and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Onion, Bread, Pepper",
+    "recipe": "Boiled Tofu with Onion and Bread: 1. Prepare the Tofu and Onion. 2. Heat pan and add Pepper. 3. Boil the Tofu for 10 mins. 4. Add Onion and serve with Bread."
+  },
+  {
+    "ingredients": "Egg, Onion, Rice, Garlic",
+    "recipe": "Saut\u00e9ed Egg with Onion and Rice: 1. Prepare the Egg and Onion. 2. Heat pan and add Garlic. 3. Saut\u00e9 the Egg for 10 mins. 4. Add Onion and serve with Rice."
+  },
+  {
+    "ingredients": "Fish, Spinach, Rice, Soy Sauce",
+    "recipe": "Fryed Fish with Spinach and Rice: 1. Prepare the Fish and Spinach. 2. Heat pan and add Soy Sauce. 3. Fry the Fish for 10 mins. 4. Add Spinach and serve with Rice."
+  },
+  {
+    "ingredients": "Paneer, Carrot, Pasta, Turmeric",
+    "recipe": "Boiled Paneer with Carrot and Pasta: 1. Prepare the Paneer and Carrot. 2. Heat pan and add Turmeric. 3. Boil the Paneer for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Egg, Bell Pepper, Bread, Salt",
+    "recipe": "Bakeed Egg with Bell Pepper and Bread: 1. Prepare the Egg and Bell Pepper. 2. Heat pan and add Salt. 3. Bake the Egg for 10 mins. 4. Add Bell Pepper and serve with Bread."
+  },
+  {
+    "ingredients": "Fish, Potato, Quinoa, Soy Sauce",
+    "recipe": "Saut\u00e9ed Fish with Potato and Quinoa: 1. Prepare the Fish and Potato. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Fish for 10 mins. 4. Add Potato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Chicken, Carrot, Rice, Garlic",
+    "recipe": "Boiled Chicken with Carrot and Rice: 1. Prepare the Chicken and Carrot. 2. Heat pan and add Garlic. 3. Boil the Chicken for 10 mins. 4. Add Carrot and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Carrot, Pasta, Cumin",
+    "recipe": "Boiled Chicken with Carrot and Pasta: 1. Prepare the Chicken and Carrot. 2. Heat pan and add Cumin. 3. Boil the Chicken for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Tomato, Pasta, Turmeric",
+    "recipe": "Bakeed Fish with Tomato and Pasta: 1. Prepare the Fish and Tomato. 2. Heat pan and add Turmeric. 3. Bake the Fish for 10 mins. 4. Add Tomato and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Spinach, Noodles, Turmeric",
+    "recipe": "Fryed Fish with Spinach and Noodles: 1. Prepare the Fish and Spinach. 2. Heat pan and add Turmeric. 3. Fry the Fish for 10 mins. 4. Add Spinach and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Peas, Bread, Garlic",
+    "recipe": "Steamed Tofu with Peas and Bread: 1. Prepare the Tofu and Peas. 2. Heat pan and add Garlic. 3. Steam the Tofu for 10 mins. 4. Add Peas and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Spinach, Quinoa, Garlic",
+    "recipe": "Bakeed Chicken with Spinach and Quinoa: 1. Prepare the Chicken and Spinach. 2. Heat pan and add Garlic. 3. Bake the Chicken for 10 mins. 4. Add Spinach and serve with Quinoa."
+  },
+  {
+    "ingredients": "Chicken, Spinach, Rice, Cumin",
+    "recipe": "Steamed Chicken with Spinach and Rice: 1. Prepare the Chicken and Spinach. 2. Heat pan and add Cumin. 3. Steam the Chicken for 10 mins. 4. Add Spinach and serve with Rice."
+  },
+  {
+    "ingredients": "Paneer, Peas, Noodles, Cumin",
+    "recipe": "Grilled Paneer with Peas and Noodles: 1. Prepare the Paneer and Peas. 2. Heat pan and add Cumin. 3. Grill the Paneer for 10 mins. 4. Add Peas and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Bell Pepper, Rice, Salt",
+    "recipe": "Steamed Fish with Bell Pepper and Rice: 1. Prepare the Fish and Bell Pepper. 2. Heat pan and add Salt. 3. Steam the Fish for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Carrot, Noodles, Cumin",
+    "recipe": "Fryed Egg with Carrot and Noodles: 1. Prepare the Egg and Carrot. 2. Heat pan and add Cumin. 3. Fry the Egg for 10 mins. 4. Add Carrot and serve with Noodles."
+  },
+  {
+    "ingredients": "Egg, Onion, Pasta, Ginger",
+    "recipe": "Fryed Egg with Onion and Pasta: 1. Prepare the Egg and Onion. 2. Heat pan and add Ginger. 3. Fry the Egg for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Tofu, Onion, Rice, Pepper",
+    "recipe": "Saut\u00e9ed Tofu with Onion and Rice: 1. Prepare the Tofu and Onion. 2. Heat pan and add Pepper. 3. Saut\u00e9 the Tofu for 10 mins. 4. Add Onion and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Onion, Rice, Salt",
+    "recipe": "Bakeed Egg with Onion and Rice: 1. Prepare the Egg and Onion. 2. Heat pan and add Salt. 3. Bake the Egg for 10 mins. 4. Add Onion and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Carrot, Pasta, Turmeric",
+    "recipe": "Fryed Tofu with Carrot and Pasta: 1. Prepare the Tofu and Carrot. 2. Heat pan and add Turmeric. 3. Fry the Tofu for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Tofu, Spinach, Rice, Pepper",
+    "recipe": "Fryed Tofu with Spinach and Rice: 1. Prepare the Tofu and Spinach. 2. Heat pan and add Pepper. 3. Fry the Tofu for 10 mins. 4. Add Spinach and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Onion, Rice, Pepper",
+    "recipe": "Fryed Tofu with Onion and Rice: 1. Prepare the Tofu and Onion. 2. Heat pan and add Pepper. 3. Fry the Tofu for 10 mins. 4. Add Onion and serve with Rice."
+  },
+  {
+    "ingredients": "Fish, Bell Pepper, Bread, Soy Sauce",
+    "recipe": "Steamed Fish with Bell Pepper and Bread: 1. Prepare the Fish and Bell Pepper. 2. Heat pan and add Soy Sauce. 3. Steam the Fish for 10 mins. 4. Add Bell Pepper and serve with Bread."
+  },
+  {
+    "ingredients": "Paneer, Bell Pepper, Rice, Ginger",
+    "recipe": "Fryed Paneer with Bell Pepper and Rice: 1. Prepare the Paneer and Bell Pepper. 2. Heat pan and add Ginger. 3. Fry the Paneer for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Bell Pepper, Pasta, Salt",
+    "recipe": "Boiled Chicken with Bell Pepper and Pasta: 1. Prepare the Chicken and Bell Pepper. 2. Heat pan and add Salt. 3. Boil the Chicken for 10 mins. 4. Add Bell Pepper and serve with Pasta."
+  },
+  {
+    "ingredients": "Tofu, Peas, Rice, Cumin",
+    "recipe": "Saut\u00e9ed Tofu with Peas and Rice: 1. Prepare the Tofu and Peas. 2. Heat pan and add Cumin. 3. Saut\u00e9 the Tofu for 10 mins. 4. Add Peas and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Onion, Quinoa, Pepper",
+    "recipe": "Boiled Egg with Onion and Quinoa: 1. Prepare the Egg and Onion. 2. Heat pan and add Pepper. 3. Boil the Egg for 10 mins. 4. Add Onion and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Carrot, Noodles, Pepper",
+    "recipe": "Grilled Fish with Carrot and Noodles: 1. Prepare the Fish and Carrot. 2. Heat pan and add Pepper. 3. Grill the Fish for 10 mins. 4. Add Carrot and serve with Noodles."
+  },
+  {
+    "ingredients": "Paneer, Peas, Pasta, Soy Sauce",
+    "recipe": "Saut\u00e9ed Paneer with Peas and Pasta: 1. Prepare the Paneer and Peas. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Paneer for 10 mins. 4. Add Peas and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Potato, Rice, Cumin",
+    "recipe": "Saut\u00e9ed Fish with Potato and Rice: 1. Prepare the Fish and Potato. 2. Heat pan and add Cumin. 3. Saut\u00e9 the Fish for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Peas, Noodles, Pepper",
+    "recipe": "Steamed Beef with Peas and Noodles: 1. Prepare the Beef and Peas. 2. Heat pan and add Pepper. 3. Steam the Beef for 10 mins. 4. Add Peas and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Bell Pepper, Pasta, Soy Sauce",
+    "recipe": "Steamed Fish with Bell Pepper and Pasta: 1. Prepare the Fish and Bell Pepper. 2. Heat pan and add Soy Sauce. 3. Steam the Fish for 10 mins. 4. Add Bell Pepper and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Peas, Noodles, Pepper",
+    "recipe": "Fryed Beef with Peas and Noodles: 1. Prepare the Beef and Peas. 2. Heat pan and add Pepper. 3. Fry the Beef for 10 mins. 4. Add Peas and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Peas, Pasta, Cumin",
+    "recipe": "Steamed Fish with Peas and Pasta: 1. Prepare the Fish and Peas. 2. Heat pan and add Cumin. 3. Steam the Fish for 10 mins. 4. Add Peas and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Peas, Rice, Cumin",
+    "recipe": "Bakeed Fish with Peas and Rice: 1. Prepare the Fish and Peas. 2. Heat pan and add Cumin. 3. Bake the Fish for 10 mins. 4. Add Peas and serve with Rice."
+  },
+  {
+    "ingredients": "Paneer, Carrot, Pasta, Soy Sauce",
+    "recipe": "Grilled Paneer with Carrot and Pasta: 1. Prepare the Paneer and Carrot. 2. Heat pan and add Soy Sauce. 3. Grill the Paneer for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Egg, Onion, Pasta, Turmeric",
+    "recipe": "Saut\u00e9ed Egg with Onion and Pasta: 1. Prepare the Egg and Onion. 2. Heat pan and add Turmeric. 3. Saut\u00e9 the Egg for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Peas, Quinoa, Turmeric",
+    "recipe": "Bakeed Paneer with Peas and Quinoa: 1. Prepare the Paneer and Peas. 2. Heat pan and add Turmeric. 3. Bake the Paneer for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Spinach, Rice, Soy Sauce",
+    "recipe": "Boiled Egg with Spinach and Rice: 1. Prepare the Egg and Spinach. 2. Heat pan and add Soy Sauce. 3. Boil the Egg for 10 mins. 4. Add Spinach and serve with Rice."
+  },
+  {
+    "ingredients": "Paneer, Carrot, Noodles, Turmeric",
+    "recipe": "Grilled Paneer with Carrot and Noodles: 1. Prepare the Paneer and Carrot. 2. Heat pan and add Turmeric. 3. Grill the Paneer for 10 mins. 4. Add Carrot and serve with Noodles."
+  },
+  {
+    "ingredients": "Chicken, Tomato, Bread, Turmeric",
+    "recipe": "Fryed Chicken with Tomato and Bread: 1. Prepare the Chicken and Tomato. 2. Heat pan and add Turmeric. 3. Fry the Chicken for 10 mins. 4. Add Tomato and serve with Bread."
+  },
+  {
+    "ingredients": "Paneer, Peas, Bread, Soy Sauce",
+    "recipe": "Bakeed Paneer with Peas and Bread: 1. Prepare the Paneer and Peas. 2. Heat pan and add Soy Sauce. 3. Bake the Paneer for 10 mins. 4. Add Peas and serve with Bread."
+  },
+  {
+    "ingredients": "Fish, Carrot, Quinoa, Soy Sauce",
+    "recipe": "Bakeed Fish with Carrot and Quinoa: 1. Prepare the Fish and Carrot. 2. Heat pan and add Soy Sauce. 3. Bake the Fish for 10 mins. 4. Add Carrot and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Onion, Bread, Turmeric",
+    "recipe": "Steamed Beef with Onion and Bread: 1. Prepare the Beef and Onion. 2. Heat pan and add Turmeric. 3. Steam the Beef for 10 mins. 4. Add Onion and serve with Bread."
+  },
+  {
+    "ingredients": "Paneer, Potato, Rice, Ginger",
+    "recipe": "Saut\u00e9ed Paneer with Potato and Rice: 1. Prepare the Paneer and Potato. 2. Heat pan and add Ginger. 3. Saut\u00e9 the Paneer for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Spinach, Pasta, Garlic",
+    "recipe": "Grilled Chicken with Spinach and Pasta: 1. Prepare the Chicken and Spinach. 2. Heat pan and add Garlic. 3. Grill the Chicken for 10 mins. 4. Add Spinach and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Onion, Bread, Cumin",
+    "recipe": "Saut\u00e9ed Fish with Onion and Bread: 1. Prepare the Fish and Onion. 2. Heat pan and add Cumin. 3. Saut\u00e9 the Fish for 10 mins. 4. Add Onion and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Carrot, Rice, Turmeric",
+    "recipe": "Steamed Chicken with Carrot and Rice: 1. Prepare the Chicken and Carrot. 2. Heat pan and add Turmeric. 3. Steam the Chicken for 10 mins. 4. Add Carrot and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Peas, Noodles, Garlic",
+    "recipe": "Bakeed Chicken with Peas and Noodles: 1. Prepare the Chicken and Peas. 2. Heat pan and add Garlic. 3. Bake the Chicken for 10 mins. 4. Add Peas and serve with Noodles."
+  },
+  {
+    "ingredients": "Egg, Peas, Bread, Soy Sauce",
+    "recipe": "Fryed Egg with Peas and Bread: 1. Prepare the Egg and Peas. 2. Heat pan and add Soy Sauce. 3. Fry the Egg for 10 mins. 4. Add Peas and serve with Bread."
+  },
+  {
+    "ingredients": "Paneer, Tomato, Rice, Garlic",
+    "recipe": "Boiled Paneer with Tomato and Rice: 1. Prepare the Paneer and Tomato. 2. Heat pan and add Garlic. 3. Boil the Paneer for 10 mins. 4. Add Tomato and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Carrot, Bread, Cumin",
+    "recipe": "Boiled Chicken with Carrot and Bread: 1. Prepare the Chicken and Carrot. 2. Heat pan and add Cumin. 3. Boil the Chicken for 10 mins. 4. Add Carrot and serve with Bread."
+  },
+  {
+    "ingredients": "Egg, Tomato, Noodles, Pepper",
+    "recipe": "Fryed Egg with Tomato and Noodles: 1. Prepare the Egg and Tomato. 2. Heat pan and add Pepper. 3. Fry the Egg for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Beef, Tomato, Noodles, Pepper",
+    "recipe": "Boiled Beef with Tomato and Noodles: 1. Prepare the Beef and Tomato. 2. Heat pan and add Pepper. 3. Boil the Beef for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Egg, Spinach, Pasta, Turmeric",
+    "recipe": "Steamed Egg with Spinach and Pasta: 1. Prepare the Egg and Spinach. 2. Heat pan and add Turmeric. 3. Steam the Egg for 10 mins. 4. Add Spinach and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Bell Pepper, Rice, Salt",
+    "recipe": "Saut\u00e9ed Beef with Bell Pepper and Rice: 1. Prepare the Beef and Bell Pepper. 2. Heat pan and add Salt. 3. Saut\u00e9 the Beef for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Fish, Tomato, Quinoa, Cumin",
+    "recipe": "Grilled Fish with Tomato and Quinoa: 1. Prepare the Fish and Tomato. 2. Heat pan and add Cumin. 3. Grill the Fish for 10 mins. 4. Add Tomato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Bell Pepper, Noodles, Salt",
+    "recipe": "Fryed Egg with Bell Pepper and Noodles: 1. Prepare the Egg and Bell Pepper. 2. Heat pan and add Salt. 3. Fry the Egg for 10 mins. 4. Add Bell Pepper and serve with Noodles."
+  },
+  {
+    "ingredients": "Paneer, Bell Pepper, Rice, Pepper",
+    "recipe": "Saut\u00e9ed Paneer with Bell Pepper and Rice: 1. Prepare the Paneer and Bell Pepper. 2. Heat pan and add Pepper. 3. Saut\u00e9 the Paneer for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Fish, Carrot, Noodles, Salt",
+    "recipe": "Bakeed Fish with Carrot and Noodles: 1. Prepare the Fish and Carrot. 2. Heat pan and add Salt. 3. Bake the Fish for 10 mins. 4. Add Carrot and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Onion, Rice, Pepper",
+    "recipe": "Fryed Fish with Onion and Rice: 1. Prepare the Fish and Onion. 2. Heat pan and add Pepper. 3. Fry the Fish for 10 mins. 4. Add Onion and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Potato, Rice, Soy Sauce",
+    "recipe": "Saut\u00e9ed Egg with Potato and Rice: 1. Prepare the Egg and Potato. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Egg for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Onion, Noodles, Soy Sauce",
+    "recipe": "Bakeed Chicken with Onion and Noodles: 1. Prepare the Chicken and Onion. 2. Heat pan and add Soy Sauce. 3. Bake the Chicken for 10 mins. 4. Add Onion and serve with Noodles."
+  },
+  {
+    "ingredients": "Chicken, Spinach, Rice, Cumin",
+    "recipe": "Grilled Chicken with Spinach and Rice: 1. Prepare the Chicken and Spinach. 2. Heat pan and add Cumin. 3. Grill the Chicken for 10 mins. 4. Add Spinach and serve with Rice."
+  },
+  {
+    "ingredients": "Paneer, Bell Pepper, Bread, Ginger",
+    "recipe": "Boiled Paneer with Bell Pepper and Bread: 1. Prepare the Paneer and Bell Pepper. 2. Heat pan and add Ginger. 3. Boil the Paneer for 10 mins. 4. Add Bell Pepper and serve with Bread."
+  },
+  {
+    "ingredients": "Tofu, Peas, Rice, Pepper",
+    "recipe": "Fryed Tofu with Peas and Rice: 1. Prepare the Tofu and Peas. 2. Heat pan and add Pepper. 3. Fry the Tofu for 10 mins. 4. Add Peas and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Tomato, Pasta, Salt",
+    "recipe": "Saut\u00e9ed Tofu with Tomato and Pasta: 1. Prepare the Tofu and Tomato. 2. Heat pan and add Salt. 3. Saut\u00e9 the Tofu for 10 mins. 4. Add Tomato and serve with Pasta."
+  },
+  {
+    "ingredients": "Egg, Spinach, Noodles, Pepper",
+    "recipe": "Bakeed Egg with Spinach and Noodles: 1. Prepare the Egg and Spinach. 2. Heat pan and add Pepper. 3. Bake the Egg for 10 mins. 4. Add Spinach and serve with Noodles."
+  },
+  {
+    "ingredients": "Beef, Bell Pepper, Quinoa, Salt",
+    "recipe": "Steamed Beef with Bell Pepper and Quinoa: 1. Prepare the Beef and Bell Pepper. 2. Heat pan and add Salt. 3. Steam the Beef for 10 mins. 4. Add Bell Pepper and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Potato, Rice, Turmeric",
+    "recipe": "Steamed Fish with Potato and Rice: 1. Prepare the Fish and Potato. 2. Heat pan and add Turmeric. 3. Steam the Fish for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Spinach, Pasta, Pepper",
+    "recipe": "Bakeed Chicken with Spinach and Pasta: 1. Prepare the Chicken and Spinach. 2. Heat pan and add Pepper. 3. Bake the Chicken for 10 mins. 4. Add Spinach and serve with Pasta."
+  },
+  {
+    "ingredients": "Tofu, Tomato, Bread, Garlic",
+    "recipe": "Fryed Tofu with Tomato and Bread: 1. Prepare the Tofu and Tomato. 2. Heat pan and add Garlic. 3. Fry the Tofu for 10 mins. 4. Add Tomato and serve with Bread."
+  },
+  {
+    "ingredients": "Beef, Onion, Rice, Ginger",
+    "recipe": "Saut\u00e9ed Beef with Onion and Rice: 1. Prepare the Beef and Onion. 2. Heat pan and add Ginger. 3. Saut\u00e9 the Beef for 10 mins. 4. Add Onion and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Tomato, Quinoa, Ginger",
+    "recipe": "Steamed Tofu with Tomato and Quinoa: 1. Prepare the Tofu and Tomato. 2. Heat pan and add Ginger. 3. Steam the Tofu for 10 mins. 4. Add Tomato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Tofu, Onion, Pasta, Ginger",
+    "recipe": "Steamed Tofu with Onion and Pasta: 1. Prepare the Tofu and Onion. 2. Heat pan and add Ginger. 3. Steam the Tofu for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Carrot, Quinoa, Soy Sauce",
+    "recipe": "Bakeed Paneer with Carrot and Quinoa: 1. Prepare the Paneer and Carrot. 2. Heat pan and add Soy Sauce. 3. Bake the Paneer for 10 mins. 4. Add Carrot and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Potato, Rice, Salt",
+    "recipe": "Grilled Egg with Potato and Rice: 1. Prepare the Egg and Potato. 2. Heat pan and add Salt. 3. Grill the Egg for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Paneer, Bell Pepper, Pasta, Turmeric",
+    "recipe": "Grilled Paneer with Bell Pepper and Pasta: 1. Prepare the Paneer and Bell Pepper. 2. Heat pan and add Turmeric. 3. Grill the Paneer for 10 mins. 4. Add Bell Pepper and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Spinach, Noodles, Turmeric",
+    "recipe": "Bakeed Beef with Spinach and Noodles: 1. Prepare the Beef and Spinach. 2. Heat pan and add Turmeric. 3. Bake the Beef for 10 mins. 4. Add Spinach and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Peas, Rice, Turmeric",
+    "recipe": "Grilled Fish with Peas and Rice: 1. Prepare the Fish and Peas. 2. Heat pan and add Turmeric. 3. Grill the Fish for 10 mins. 4. Add Peas and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Potato, Quinoa, Turmeric",
+    "recipe": "Bakeed Egg with Potato and Quinoa: 1. Prepare the Egg and Potato. 2. Heat pan and add Turmeric. 3. Bake the Egg for 10 mins. 4. Add Potato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Onion, Noodles, Salt",
+    "recipe": "Bakeed Paneer with Onion and Noodles: 1. Prepare the Paneer and Onion. 2. Heat pan and add Salt. 3. Bake the Paneer for 10 mins. 4. Add Onion and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Bell Pepper, Noodles, Garlic",
+    "recipe": "Steamed Fish with Bell Pepper and Noodles: 1. Prepare the Fish and Bell Pepper. 2. Heat pan and add Garlic. 3. Steam the Fish for 10 mins. 4. Add Bell Pepper and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Bell Pepper, Noodles, Garlic",
+    "recipe": "Steamed Fish with Bell Pepper and Noodles: 1. Prepare the Fish and Bell Pepper. 2. Heat pan and add Garlic. 3. Steam the Fish for 10 mins. 4. Add Bell Pepper and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Onion, Rice, Turmeric",
+    "recipe": "Steamed Fish with Onion and Rice: 1. Prepare the Fish and Onion. 2. Heat pan and add Turmeric. 3. Steam the Fish for 10 mins. 4. Add Onion and serve with Rice."
+  },
+  {
+    "ingredients": "Fish, Spinach, Noodles, Soy Sauce",
+    "recipe": "Boiled Fish with Spinach and Noodles: 1. Prepare the Fish and Spinach. 2. Heat pan and add Soy Sauce. 3. Boil the Fish for 10 mins. 4. Add Spinach and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Peas, Quinoa, Cumin",
+    "recipe": "Boiled Tofu with Peas and Quinoa: 1. Prepare the Tofu and Peas. 2. Heat pan and add Cumin. 3. Boil the Tofu for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Carrot, Rice, Soy Sauce",
+    "recipe": "Steamed Paneer with Carrot and Rice: 1. Prepare the Paneer and Carrot. 2. Heat pan and add Soy Sauce. 3. Steam the Paneer for 10 mins. 4. Add Carrot and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Bell Pepper, Rice, Garlic",
+    "recipe": "Boiled Tofu with Bell Pepper and Rice: 1. Prepare the Tofu and Bell Pepper. 2. Heat pan and add Garlic. 3. Boil the Tofu for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Potato, Quinoa, Pepper",
+    "recipe": "Boiled Egg with Potato and Quinoa: 1. Prepare the Egg and Potato. 2. Heat pan and add Pepper. 3. Boil the Egg for 10 mins. 4. Add Potato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Bell Pepper, Pasta, Salt",
+    "recipe": "Fryed Egg with Bell Pepper and Pasta: 1. Prepare the Egg and Bell Pepper. 2. Heat pan and add Salt. 3. Fry the Egg for 10 mins. 4. Add Bell Pepper and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Tomato, Bread, Ginger",
+    "recipe": "Steamed Fish with Tomato and Bread: 1. Prepare the Fish and Tomato. 2. Heat pan and add Ginger. 3. Steam the Fish for 10 mins. 4. Add Tomato and serve with Bread."
+  },
+  {
+    "ingredients": "Beef, Carrot, Bread, Garlic",
+    "recipe": "Saut\u00e9ed Beef with Carrot and Bread: 1. Prepare the Beef and Carrot. 2. Heat pan and add Garlic. 3. Saut\u00e9 the Beef for 10 mins. 4. Add Carrot and serve with Bread."
+  },
+  {
+    "ingredients": "Egg, Tomato, Noodles, Garlic",
+    "recipe": "Grilled Egg with Tomato and Noodles: 1. Prepare the Egg and Tomato. 2. Heat pan and add Garlic. 3. Grill the Egg for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Egg, Bell Pepper, Noodles, Ginger",
+    "recipe": "Steamed Egg with Bell Pepper and Noodles: 1. Prepare the Egg and Bell Pepper. 2. Heat pan and add Ginger. 3. Steam the Egg for 10 mins. 4. Add Bell Pepper and serve with Noodles."
+  },
+  {
+    "ingredients": "Beef, Peas, Quinoa, Soy Sauce",
+    "recipe": "Saut\u00e9ed Beef with Peas and Quinoa: 1. Prepare the Beef and Peas. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Beef for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Tomato, Rice, Turmeric",
+    "recipe": "Boiled Fish with Tomato and Rice: 1. Prepare the Fish and Tomato. 2. Heat pan and add Turmeric. 3. Boil the Fish for 10 mins. 4. Add Tomato and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Onion, Noodles, Garlic",
+    "recipe": "Boiled Beef with Onion and Noodles: 1. Prepare the Beef and Onion. 2. Heat pan and add Garlic. 3. Boil the Beef for 10 mins. 4. Add Onion and serve with Noodles."
+  },
+  {
+    "ingredients": "Beef, Bell Pepper, Pasta, Cumin",
+    "recipe": "Steamed Beef with Bell Pepper and Pasta: 1. Prepare the Beef and Bell Pepper. 2. Heat pan and add Cumin. 3. Steam the Beef for 10 mins. 4. Add Bell Pepper and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Onion, Pasta, Salt",
+    "recipe": "Grilled Beef with Onion and Pasta: 1. Prepare the Beef and Onion. 2. Heat pan and add Salt. 3. Grill the Beef for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Onion, Noodles, Cumin",
+    "recipe": "Grilled Beef with Onion and Noodles: 1. Prepare the Beef and Onion. 2. Heat pan and add Cumin. 3. Grill the Beef for 10 mins. 4. Add Onion and serve with Noodles."
+  },
+  {
+    "ingredients": "Chicken, Spinach, Bread, Salt",
+    "recipe": "Fryed Chicken with Spinach and Bread: 1. Prepare the Chicken and Spinach. 2. Heat pan and add Salt. 3. Fry the Chicken for 10 mins. 4. Add Spinach and serve with Bread."
+  },
+  {
+    "ingredients": "Tofu, Bell Pepper, Bread, Garlic",
+    "recipe": "Grilled Tofu with Bell Pepper and Bread: 1. Prepare the Tofu and Bell Pepper. 2. Heat pan and add Garlic. 3. Grill the Tofu for 10 mins. 4. Add Bell Pepper and serve with Bread."
+  },
+  {
+    "ingredients": "Fish, Tomato, Noodles, Ginger",
+    "recipe": "Boiled Fish with Tomato and Noodles: 1. Prepare the Fish and Tomato. 2. Heat pan and add Ginger. 3. Boil the Fish for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Onion, Noodles, Pepper",
+    "recipe": "Steamed Fish with Onion and Noodles: 1. Prepare the Fish and Onion. 2. Heat pan and add Pepper. 3. Steam the Fish for 10 mins. 4. Add Onion and serve with Noodles."
+  },
+  {
+    "ingredients": "Egg, Bell Pepper, Noodles, Cumin",
+    "recipe": "Steamed Egg with Bell Pepper and Noodles: 1. Prepare the Egg and Bell Pepper. 2. Heat pan and add Cumin. 3. Steam the Egg for 10 mins. 4. Add Bell Pepper and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Tomato, Pasta, Salt",
+    "recipe": "Saut\u00e9ed Fish with Tomato and Pasta: 1. Prepare the Fish and Tomato. 2. Heat pan and add Salt. 3. Saut\u00e9 the Fish for 10 mins. 4. Add Tomato and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Bell Pepper, Noodles, Pepper",
+    "recipe": "Bakeed Paneer with Bell Pepper and Noodles: 1. Prepare the Paneer and Bell Pepper. 2. Heat pan and add Pepper. 3. Bake the Paneer for 10 mins. 4. Add Bell Pepper and serve with Noodles."
+  },
+  {
+    "ingredients": "Beef, Peas, Pasta, Turmeric",
+    "recipe": "Saut\u00e9ed Beef with Peas and Pasta: 1. Prepare the Beef and Peas. 2. Heat pan and add Turmeric. 3. Saut\u00e9 the Beef for 10 mins. 4. Add Peas and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Tomato, Quinoa, Soy Sauce",
+    "recipe": "Saut\u00e9ed Beef with Tomato and Quinoa: 1. Prepare the Beef and Tomato. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Beef for 10 mins. 4. Add Tomato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Peas, Noodles, Salt",
+    "recipe": "Saut\u00e9ed Beef with Peas and Noodles: 1. Prepare the Beef and Peas. 2. Heat pan and add Salt. 3. Saut\u00e9 the Beef for 10 mins. 4. Add Peas and serve with Noodles."
+  },
+  {
+    "ingredients": "Egg, Potato, Pasta, Ginger",
+    "recipe": "Steamed Egg with Potato and Pasta: 1. Prepare the Egg and Potato. 2. Heat pan and add Ginger. 3. Steam the Egg for 10 mins. 4. Add Potato and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Tomato, Quinoa, Pepper",
+    "recipe": "Steamed Fish with Tomato and Quinoa: 1. Prepare the Fish and Tomato. 2. Heat pan and add Pepper. 3. Steam the Fish for 10 mins. 4. Add Tomato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Tomato, Pasta, Pepper",
+    "recipe": "Steamed Egg with Tomato and Pasta: 1. Prepare the Egg and Tomato. 2. Heat pan and add Pepper. 3. Steam the Egg for 10 mins. 4. Add Tomato and serve with Pasta."
+  },
+  {
+    "ingredients": "Egg, Carrot, Bread, Salt",
+    "recipe": "Grilled Egg with Carrot and Bread: 1. Prepare the Egg and Carrot. 2. Heat pan and add Salt. 3. Grill the Egg for 10 mins. 4. Add Carrot and serve with Bread."
+  },
+  {
+    "ingredients": "Beef, Potato, Rice, Cumin",
+    "recipe": "Fryed Beef with Potato and Rice: 1. Prepare the Beef and Potato. 2. Heat pan and add Cumin. 3. Fry the Beef for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Bell Pepper, Rice, Ginger",
+    "recipe": "Grilled Chicken with Bell Pepper and Rice: 1. Prepare the Chicken and Bell Pepper. 2. Heat pan and add Ginger. 3. Grill the Chicken for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Paneer, Bell Pepper, Noodles, Turmeric",
+    "recipe": "Saut\u00e9ed Paneer with Bell Pepper and Noodles: 1. Prepare the Paneer and Bell Pepper. 2. Heat pan and add Turmeric. 3. Saut\u00e9 the Paneer for 10 mins. 4. Add Bell Pepper and serve with Noodles."
+  },
+  {
+    "ingredients": "Beef, Carrot, Bread, Salt",
+    "recipe": "Grilled Beef with Carrot and Bread: 1. Prepare the Beef and Carrot. 2. Heat pan and add Salt. 3. Grill the Beef for 10 mins. 4. Add Carrot and serve with Bread."
+  },
+  {
+    "ingredients": "Beef, Bell Pepper, Rice, Pepper",
+    "recipe": "Boiled Beef with Bell Pepper and Rice: 1. Prepare the Beef and Bell Pepper. 2. Heat pan and add Pepper. 3. Boil the Beef for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Potato, Quinoa, Salt",
+    "recipe": "Saut\u00e9ed Tofu with Potato and Quinoa: 1. Prepare the Tofu and Potato. 2. Heat pan and add Salt. 3. Saut\u00e9 the Tofu for 10 mins. 4. Add Potato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Peas, Noodles, Turmeric",
+    "recipe": "Saut\u00e9ed Fish with Peas and Noodles: 1. Prepare the Fish and Peas. 2. Heat pan and add Turmeric. 3. Saut\u00e9 the Fish for 10 mins. 4. Add Peas and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Bell Pepper, Quinoa, Salt",
+    "recipe": "Bakeed Fish with Bell Pepper and Quinoa: 1. Prepare the Fish and Bell Pepper. 2. Heat pan and add Salt. 3. Bake the Fish for 10 mins. 4. Add Bell Pepper and serve with Quinoa."
+  },
+  {
+    "ingredients": "Tofu, Potato, Quinoa, Garlic",
+    "recipe": "Grilled Tofu with Potato and Quinoa: 1. Prepare the Tofu and Potato. 2. Heat pan and add Garlic. 3. Grill the Tofu for 10 mins. 4. Add Potato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Spinach, Rice, Cumin",
+    "recipe": "Steamed Paneer with Spinach and Rice: 1. Prepare the Paneer and Spinach. 2. Heat pan and add Cumin. 3. Steam the Paneer for 10 mins. 4. Add Spinach and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Peas, Quinoa, Cumin",
+    "recipe": "Fryed Beef with Peas and Quinoa: 1. Prepare the Beef and Peas. 2. Heat pan and add Cumin. 3. Fry the Beef for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Spinach, Quinoa, Pepper",
+    "recipe": "Bakeed Fish with Spinach and Quinoa: 1. Prepare the Fish and Spinach. 2. Heat pan and add Pepper. 3. Bake the Fish for 10 mins. 4. Add Spinach and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Spinach, Noodles, Soy Sauce",
+    "recipe": "Bakeed Beef with Spinach and Noodles: 1. Prepare the Beef and Spinach. 2. Heat pan and add Soy Sauce. 3. Bake the Beef for 10 mins. 4. Add Spinach and serve with Noodles."
+  },
+  {
+    "ingredients": "Chicken, Peas, Rice, Salt",
+    "recipe": "Saut\u00e9ed Chicken with Peas and Rice: 1. Prepare the Chicken and Peas. 2. Heat pan and add Salt. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Peas and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Onion, Bread, Pepper",
+    "recipe": "Grilled Chicken with Onion and Bread: 1. Prepare the Chicken and Onion. 2. Heat pan and add Pepper. 3. Grill the Chicken for 10 mins. 4. Add Onion and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Onion, Bread, Salt",
+    "recipe": "Saut\u00e9ed Chicken with Onion and Bread: 1. Prepare the Chicken and Onion. 2. Heat pan and add Salt. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Onion and serve with Bread."
+  },
+  {
+    "ingredients": "Beef, Potato, Pasta, Turmeric",
+    "recipe": "Bakeed Beef with Potato and Pasta: 1. Prepare the Beef and Potato. 2. Heat pan and add Turmeric. 3. Bake the Beef for 10 mins. 4. Add Potato and serve with Pasta."
+  },
+  {
+    "ingredients": "Tofu, Peas, Pasta, Garlic",
+    "recipe": "Saut\u00e9ed Tofu with Peas and Pasta: 1. Prepare the Tofu and Peas. 2. Heat pan and add Garlic. 3. Saut\u00e9 the Tofu for 10 mins. 4. Add Peas and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Spinach, Pasta, Ginger",
+    "recipe": "Grilled Beef with Spinach and Pasta: 1. Prepare the Beef and Spinach. 2. Heat pan and add Ginger. 3. Grill the Beef for 10 mins. 4. Add Spinach and serve with Pasta."
+  },
+  {
+    "ingredients": "Egg, Bell Pepper, Noodles, Garlic",
+    "recipe": "Steamed Egg with Bell Pepper and Noodles: 1. Prepare the Egg and Bell Pepper. 2. Heat pan and add Garlic. 3. Steam the Egg for 10 mins. 4. Add Bell Pepper and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Peas, Quinoa, Cumin",
+    "recipe": "Boiled Tofu with Peas and Quinoa: 1. Prepare the Tofu and Peas. 2. Heat pan and add Cumin. 3. Boil the Tofu for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Carrot, Bread, Turmeric",
+    "recipe": "Boiled Beef with Carrot and Bread: 1. Prepare the Beef and Carrot. 2. Heat pan and add Turmeric. 3. Boil the Beef for 10 mins. 4. Add Carrot and serve with Bread."
+  },
+  {
+    "ingredients": "Tofu, Bell Pepper, Bread, Ginger",
+    "recipe": "Boiled Tofu with Bell Pepper and Bread: 1. Prepare the Tofu and Bell Pepper. 2. Heat pan and add Ginger. 3. Boil the Tofu for 10 mins. 4. Add Bell Pepper and serve with Bread."
+  },
+  {
+    "ingredients": "Fish, Bell Pepper, Noodles, Pepper",
+    "recipe": "Grilled Fish with Bell Pepper and Noodles: 1. Prepare the Fish and Bell Pepper. 2. Heat pan and add Pepper. 3. Grill the Fish for 10 mins. 4. Add Bell Pepper and serve with Noodles."
+  },
+  {
+    "ingredients": "Chicken, Onion, Bread, Salt",
+    "recipe": "Bakeed Chicken with Onion and Bread: 1. Prepare the Chicken and Onion. 2. Heat pan and add Salt. 3. Bake the Chicken for 10 mins. 4. Add Onion and serve with Bread."
+  },
+  {
+    "ingredients": "Egg, Spinach, Bread, Cumin",
+    "recipe": "Boiled Egg with Spinach and Bread: 1. Prepare the Egg and Spinach. 2. Heat pan and add Cumin. 3. Boil the Egg for 10 mins. 4. Add Spinach and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Carrot, Noodles, Turmeric",
+    "recipe": "Grilled Chicken with Carrot and Noodles: 1. Prepare the Chicken and Carrot. 2. Heat pan and add Turmeric. 3. Grill the Chicken for 10 mins. 4. Add Carrot and serve with Noodles."
+  },
+  {
+    "ingredients": "Chicken, Bell Pepper, Rice, Soy Sauce",
+    "recipe": "Bakeed Chicken with Bell Pepper and Rice: 1. Prepare the Chicken and Bell Pepper. 2. Heat pan and add Soy Sauce. 3. Bake the Chicken for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Bell Pepper, Noodles, Ginger",
+    "recipe": "Bakeed Beef with Bell Pepper and Noodles: 1. Prepare the Beef and Bell Pepper. 2. Heat pan and add Ginger. 3. Bake the Beef for 10 mins. 4. Add Bell Pepper and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Peas, Rice, Soy Sauce",
+    "recipe": "Fryed Tofu with Peas and Rice: 1. Prepare the Tofu and Peas. 2. Heat pan and add Soy Sauce. 3. Fry the Tofu for 10 mins. 4. Add Peas and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Spinach, Quinoa, Turmeric",
+    "recipe": "Grilled Beef with Spinach and Quinoa: 1. Prepare the Beef and Spinach. 2. Heat pan and add Turmeric. 3. Grill the Beef for 10 mins. 4. Add Spinach and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Peas, Bread, Soy Sauce",
+    "recipe": "Bakeed Paneer with Peas and Bread: 1. Prepare the Paneer and Peas. 2. Heat pan and add Soy Sauce. 3. Bake the Paneer for 10 mins. 4. Add Peas and serve with Bread."
+  },
+  {
+    "ingredients": "Beef, Tomato, Rice, Pepper",
+    "recipe": "Fryed Beef with Tomato and Rice: 1. Prepare the Beef and Tomato. 2. Heat pan and add Pepper. 3. Fry the Beef for 10 mins. 4. Add Tomato and serve with Rice."
+  },
+  {
+    "ingredients": "Fish, Carrot, Quinoa, Garlic",
+    "recipe": "Fryed Fish with Carrot and Quinoa: 1. Prepare the Fish and Carrot. 2. Heat pan and add Garlic. 3. Fry the Fish for 10 mins. 4. Add Carrot and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Bell Pepper, Pasta, Soy Sauce",
+    "recipe": "Fryed Paneer with Bell Pepper and Pasta: 1. Prepare the Paneer and Bell Pepper. 2. Heat pan and add Soy Sauce. 3. Fry the Paneer for 10 mins. 4. Add Bell Pepper and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Bell Pepper, Bread, Soy Sauce",
+    "recipe": "Grilled Paneer with Bell Pepper and Bread: 1. Prepare the Paneer and Bell Pepper. 2. Heat pan and add Soy Sauce. 3. Grill the Paneer for 10 mins. 4. Add Bell Pepper and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Potato, Noodles, Salt",
+    "recipe": "Steamed Chicken with Potato and Noodles: 1. Prepare the Chicken and Potato. 2. Heat pan and add Salt. 3. Steam the Chicken for 10 mins. 4. Add Potato and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Potato, Bread, Ginger",
+    "recipe": "Steamed Tofu with Potato and Bread: 1. Prepare the Tofu and Potato. 2. Heat pan and add Ginger. 3. Steam the Tofu for 10 mins. 4. Add Potato and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Peas, Quinoa, Cumin",
+    "recipe": "Steamed Chicken with Peas and Quinoa: 1. Prepare the Chicken and Peas. 2. Heat pan and add Cumin. 3. Steam the Chicken for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Carrot, Bread, Salt",
+    "recipe": "Fryed Beef with Carrot and Bread: 1. Prepare the Beef and Carrot. 2. Heat pan and add Salt. 3. Fry the Beef for 10 mins. 4. Add Carrot and serve with Bread."
+  },
+  {
+    "ingredients": "Fish, Onion, Noodles, Cumin",
+    "recipe": "Grilled Fish with Onion and Noodles: 1. Prepare the Fish and Onion. 2. Heat pan and add Cumin. 3. Grill the Fish for 10 mins. 4. Add Onion and serve with Noodles."
+  },
+  {
+    "ingredients": "Beef, Carrot, Pasta, Turmeric",
+    "recipe": "Boiled Beef with Carrot and Pasta: 1. Prepare the Beef and Carrot. 2. Heat pan and add Turmeric. 3. Boil the Beef for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Tomato, Pasta, Salt",
+    "recipe": "Steamed Paneer with Tomato and Pasta: 1. Prepare the Paneer and Tomato. 2. Heat pan and add Salt. 3. Steam the Paneer for 10 mins. 4. Add Tomato and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Tomato, Pasta, Ginger",
+    "recipe": "Saut\u00e9ed Fish with Tomato and Pasta: 1. Prepare the Fish and Tomato. 2. Heat pan and add Ginger. 3. Saut\u00e9 the Fish for 10 mins. 4. Add Tomato and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Tomato, Quinoa, Turmeric",
+    "recipe": "Fryed Paneer with Tomato and Quinoa: 1. Prepare the Paneer and Tomato. 2. Heat pan and add Turmeric. 3. Fry the Paneer for 10 mins. 4. Add Tomato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Spinach, Rice, Turmeric",
+    "recipe": "Steamed Paneer with Spinach and Rice: 1. Prepare the Paneer and Spinach. 2. Heat pan and add Turmeric. 3. Steam the Paneer for 10 mins. 4. Add Spinach and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Tomato, Noodles, Pepper",
+    "recipe": "Bakeed Egg with Tomato and Noodles: 1. Prepare the Egg and Tomato. 2. Heat pan and add Pepper. 3. Bake the Egg for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Beef, Tomato, Rice, Turmeric",
+    "recipe": "Fryed Beef with Tomato and Rice: 1. Prepare the Beef and Tomato. 2. Heat pan and add Turmeric. 3. Fry the Beef for 10 mins. 4. Add Tomato and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Bell Pepper, Rice, Garlic",
+    "recipe": "Saut\u00e9ed Chicken with Bell Pepper and Rice: 1. Prepare the Chicken and Bell Pepper. 2. Heat pan and add Garlic. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Peas, Noodles, Cumin",
+    "recipe": "Steamed Beef with Peas and Noodles: 1. Prepare the Beef and Peas. 2. Heat pan and add Cumin. 3. Steam the Beef for 10 mins. 4. Add Peas and serve with Noodles."
+  },
+  {
+    "ingredients": "Beef, Peas, Rice, Soy Sauce",
+    "recipe": "Grilled Beef with Peas and Rice: 1. Prepare the Beef and Peas. 2. Heat pan and add Soy Sauce. 3. Grill the Beef for 10 mins. 4. Add Peas and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Carrot, Rice, Cumin",
+    "recipe": "Bakeed Chicken with Carrot and Rice: 1. Prepare the Chicken and Carrot. 2. Heat pan and add Cumin. 3. Bake the Chicken for 10 mins. 4. Add Carrot and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Carrot, Pasta, Turmeric",
+    "recipe": "Grilled Tofu with Carrot and Pasta: 1. Prepare the Tofu and Carrot. 2. Heat pan and add Turmeric. 3. Grill the Tofu for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Chicken, Spinach, Noodles, Ginger",
+    "recipe": "Saut\u00e9ed Chicken with Spinach and Noodles: 1. Prepare the Chicken and Spinach. 2. Heat pan and add Ginger. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Spinach and serve with Noodles."
+  },
+  {
+    "ingredients": "Egg, Potato, Quinoa, Salt",
+    "recipe": "Fryed Egg with Potato and Quinoa: 1. Prepare the Egg and Potato. 2. Heat pan and add Salt. 3. Fry the Egg for 10 mins. 4. Add Potato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Bell Pepper, Quinoa, Pepper",
+    "recipe": "Bakeed Beef with Bell Pepper and Quinoa: 1. Prepare the Beef and Bell Pepper. 2. Heat pan and add Pepper. 3. Bake the Beef for 10 mins. 4. Add Bell Pepper and serve with Quinoa."
+  },
+  {
+    "ingredients": "Chicken, Spinach, Noodles, Pepper",
+    "recipe": "Saut\u00e9ed Chicken with Spinach and Noodles: 1. Prepare the Chicken and Spinach. 2. Heat pan and add Pepper. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Spinach and serve with Noodles."
+  },
+  {
+    "ingredients": "Paneer, Carrot, Rice, Garlic",
+    "recipe": "Steamed Paneer with Carrot and Rice: 1. Prepare the Paneer and Carrot. 2. Heat pan and add Garlic. 3. Steam the Paneer for 10 mins. 4. Add Carrot and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Potato, Quinoa, Turmeric",
+    "recipe": "Grilled Beef with Potato and Quinoa: 1. Prepare the Beef and Potato. 2. Heat pan and add Turmeric. 3. Grill the Beef for 10 mins. 4. Add Potato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Chicken, Bell Pepper, Bread, Pepper",
+    "recipe": "Saut\u00e9ed Chicken with Bell Pepper and Bread: 1. Prepare the Chicken and Bell Pepper. 2. Heat pan and add Pepper. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Bell Pepper and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Tomato, Noodles, Cumin",
+    "recipe": "Bakeed Chicken with Tomato and Noodles: 1. Prepare the Chicken and Tomato. 2. Heat pan and add Cumin. 3. Bake the Chicken for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Paneer, Onion, Pasta, Turmeric",
+    "recipe": "Bakeed Paneer with Onion and Pasta: 1. Prepare the Paneer and Onion. 2. Heat pan and add Turmeric. 3. Bake the Paneer for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Potato, Rice, Turmeric",
+    "recipe": "Steamed Paneer with Potato and Rice: 1. Prepare the Paneer and Potato. 2. Heat pan and add Turmeric. 3. Steam the Paneer for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Paneer, Carrot, Pasta, Salt",
+    "recipe": "Boiled Paneer with Carrot and Pasta: 1. Prepare the Paneer and Carrot. 2. Heat pan and add Salt. 3. Boil the Paneer for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Tomato, Quinoa, Cumin",
+    "recipe": "Bakeed Fish with Tomato and Quinoa: 1. Prepare the Fish and Tomato. 2. Heat pan and add Cumin. 3. Bake the Fish for 10 mins. 4. Add Tomato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Tomato, Pasta, Ginger",
+    "recipe": "Grilled Beef with Tomato and Pasta: 1. Prepare the Beef and Tomato. 2. Heat pan and add Ginger. 3. Grill the Beef for 10 mins. 4. Add Tomato and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Peas, Noodles, Ginger",
+    "recipe": "Bakeed Fish with Peas and Noodles: 1. Prepare the Fish and Peas. 2. Heat pan and add Ginger. 3. Bake the Fish for 10 mins. 4. Add Peas and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Bell Pepper, Quinoa, Pepper",
+    "recipe": "Steamed Fish with Bell Pepper and Quinoa: 1. Prepare the Fish and Bell Pepper. 2. Heat pan and add Pepper. 3. Steam the Fish for 10 mins. 4. Add Bell Pepper and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Carrot, Rice, Turmeric",
+    "recipe": "Grilled Egg with Carrot and Rice: 1. Prepare the Egg and Carrot. 2. Heat pan and add Turmeric. 3. Grill the Egg for 10 mins. 4. Add Carrot and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Carrot, Noodles, Ginger",
+    "recipe": "Saut\u00e9ed Beef with Carrot and Noodles: 1. Prepare the Beef and Carrot. 2. Heat pan and add Ginger. 3. Saut\u00e9 the Beef for 10 mins. 4. Add Carrot and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Onion, Rice, Ginger",
+    "recipe": "Grilled Tofu with Onion and Rice: 1. Prepare the Tofu and Onion. 2. Heat pan and add Ginger. 3. Grill the Tofu for 10 mins. 4. Add Onion and serve with Rice."
+  },
+  {
+    "ingredients": "Paneer, Spinach, Quinoa, Salt",
+    "recipe": "Bakeed Paneer with Spinach and Quinoa: 1. Prepare the Paneer and Spinach. 2. Heat pan and add Salt. 3. Bake the Paneer for 10 mins. 4. Add Spinach and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Onion, Quinoa, Soy Sauce",
+    "recipe": "Steamed Paneer with Onion and Quinoa: 1. Prepare the Paneer and Onion. 2. Heat pan and add Soy Sauce. 3. Steam the Paneer for 10 mins. 4. Add Onion and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Tomato, Bread, Pepper",
+    "recipe": "Fryed Fish with Tomato and Bread: 1. Prepare the Fish and Tomato. 2. Heat pan and add Pepper. 3. Fry the Fish for 10 mins. 4. Add Tomato and serve with Bread."
+  },
+  {
+    "ingredients": "Beef, Tomato, Bread, Turmeric",
+    "recipe": "Saut\u00e9ed Beef with Tomato and Bread: 1. Prepare the Beef and Tomato. 2. Heat pan and add Turmeric. 3. Saut\u00e9 the Beef for 10 mins. 4. Add Tomato and serve with Bread."
+  },
+  {
+    "ingredients": "Paneer, Spinach, Pasta, Pepper",
+    "recipe": "Boiled Paneer with Spinach and Pasta: 1. Prepare the Paneer and Spinach. 2. Heat pan and add Pepper. 3. Boil the Paneer for 10 mins. 4. Add Spinach and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Onion, Quinoa, Pepper",
+    "recipe": "Boiled Paneer with Onion and Quinoa: 1. Prepare the Paneer and Onion. 2. Heat pan and add Pepper. 3. Boil the Paneer for 10 mins. 4. Add Onion and serve with Quinoa."
+  },
+  {
+    "ingredients": "Chicken, Potato, Rice, Cumin",
+    "recipe": "Boiled Chicken with Potato and Rice: 1. Prepare the Chicken and Potato. 2. Heat pan and add Cumin. 3. Boil the Chicken for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Paneer, Spinach, Bread, Turmeric",
+    "recipe": "Grilled Paneer with Spinach and Bread: 1. Prepare the Paneer and Spinach. 2. Heat pan and add Turmeric. 3. Grill the Paneer for 10 mins. 4. Add Spinach and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Onion, Noodles, Pepper",
+    "recipe": "Bakeed Chicken with Onion and Noodles: 1. Prepare the Chicken and Onion. 2. Heat pan and add Pepper. 3. Bake the Chicken for 10 mins. 4. Add Onion and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Peas, Quinoa, Pepper",
+    "recipe": "Bakeed Tofu with Peas and Quinoa: 1. Prepare the Tofu and Peas. 2. Heat pan and add Pepper. 3. Bake the Tofu for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Peas, Quinoa, Ginger",
+    "recipe": "Steamed Paneer with Peas and Quinoa: 1. Prepare the Paneer and Peas. 2. Heat pan and add Ginger. 3. Steam the Paneer for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Tomato, Bread, Ginger",
+    "recipe": "Saut\u00e9ed Egg with Tomato and Bread: 1. Prepare the Egg and Tomato. 2. Heat pan and add Ginger. 3. Saut\u00e9 the Egg for 10 mins. 4. Add Tomato and serve with Bread."
+  },
+  {
+    "ingredients": "Tofu, Potato, Bread, Ginger",
+    "recipe": "Fryed Tofu with Potato and Bread: 1. Prepare the Tofu and Potato. 2. Heat pan and add Ginger. 3. Fry the Tofu for 10 mins. 4. Add Potato and serve with Bread."
+  },
+  {
+    "ingredients": "Beef, Spinach, Rice, Cumin",
+    "recipe": "Bakeed Beef with Spinach and Rice: 1. Prepare the Beef and Spinach. 2. Heat pan and add Cumin. 3. Bake the Beef for 10 mins. 4. Add Spinach and serve with Rice."
+  },
+  {
+    "ingredients": "Fish, Spinach, Quinoa, Turmeric",
+    "recipe": "Boiled Fish with Spinach and Quinoa: 1. Prepare the Fish and Spinach. 2. Heat pan and add Turmeric. 3. Boil the Fish for 10 mins. 4. Add Spinach and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Onion, Noodles, Salt",
+    "recipe": "Saut\u00e9ed Egg with Onion and Noodles: 1. Prepare the Egg and Onion. 2. Heat pan and add Salt. 3. Saut\u00e9 the Egg for 10 mins. 4. Add Onion and serve with Noodles."
+  },
+  {
+    "ingredients": "Egg, Spinach, Rice, Salt",
+    "recipe": "Fryed Egg with Spinach and Rice: 1. Prepare the Egg and Spinach. 2. Heat pan and add Salt. 3. Fry the Egg for 10 mins. 4. Add Spinach and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Onion, Rice, Garlic",
+    "recipe": "Steamed Beef with Onion and Rice: 1. Prepare the Beef and Onion. 2. Heat pan and add Garlic. 3. Steam the Beef for 10 mins. 4. Add Onion and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Spinach, Pasta, Ginger",
+    "recipe": "Grilled Chicken with Spinach and Pasta: 1. Prepare the Chicken and Spinach. 2. Heat pan and add Ginger. 3. Grill the Chicken for 10 mins. 4. Add Spinach and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Onion, Bread, Cumin",
+    "recipe": "Grilled Paneer with Onion and Bread: 1. Prepare the Paneer and Onion. 2. Heat pan and add Cumin. 3. Grill the Paneer for 10 mins. 4. Add Onion and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Potato, Pasta, Garlic",
+    "recipe": "Steamed Chicken with Potato and Pasta: 1. Prepare the Chicken and Potato. 2. Heat pan and add Garlic. 3. Steam the Chicken for 10 mins. 4. Add Potato and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Spinach, Quinoa, Salt",
+    "recipe": "Boiled Beef with Spinach and Quinoa: 1. Prepare the Beef and Spinach. 2. Heat pan and add Salt. 3. Boil the Beef for 10 mins. 4. Add Spinach and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Onion, Pasta, Pepper",
+    "recipe": "Bakeed Paneer with Onion and Pasta: 1. Prepare the Paneer and Onion. 2. Heat pan and add Pepper. 3. Bake the Paneer for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Chicken, Tomato, Noodles, Soy Sauce",
+    "recipe": "Fryed Chicken with Tomato and Noodles: 1. Prepare the Chicken and Tomato. 2. Heat pan and add Soy Sauce. 3. Fry the Chicken for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Chicken, Spinach, Noodles, Salt",
+    "recipe": "Bakeed Chicken with Spinach and Noodles: 1. Prepare the Chicken and Spinach. 2. Heat pan and add Salt. 3. Bake the Chicken for 10 mins. 4. Add Spinach and serve with Noodles."
+  },
+  {
+    "ingredients": "Chicken, Onion, Noodles, Soy Sauce",
+    "recipe": "Steamed Chicken with Onion and Noodles: 1. Prepare the Chicken and Onion. 2. Heat pan and add Soy Sauce. 3. Steam the Chicken for 10 mins. 4. Add Onion and serve with Noodles."
+  },
+  {
+    "ingredients": "Chicken, Carrot, Rice, Soy Sauce",
+    "recipe": "Bakeed Chicken with Carrot and Rice: 1. Prepare the Chicken and Carrot. 2. Heat pan and add Soy Sauce. 3. Bake the Chicken for 10 mins. 4. Add Carrot and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Spinach, Bread, Ginger",
+    "recipe": "Boiled Beef with Spinach and Bread: 1. Prepare the Beef and Spinach. 2. Heat pan and add Ginger. 3. Boil the Beef for 10 mins. 4. Add Spinach and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Onion, Bread, Soy Sauce",
+    "recipe": "Saut\u00e9ed Chicken with Onion and Bread: 1. Prepare the Chicken and Onion. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Onion and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Tomato, Rice, Garlic",
+    "recipe": "Grilled Chicken with Tomato and Rice: 1. Prepare the Chicken and Tomato. 2. Heat pan and add Garlic. 3. Grill the Chicken for 10 mins. 4. Add Tomato and serve with Rice."
+  },
+  {
+    "ingredients": "Fish, Carrot, Quinoa, Garlic",
+    "recipe": "Bakeed Fish with Carrot and Quinoa: 1. Prepare the Fish and Carrot. 2. Heat pan and add Garlic. 3. Bake the Fish for 10 mins. 4. Add Carrot and serve with Quinoa."
+  },
+  {
+    "ingredients": "Tofu, Bell Pepper, Bread, Garlic",
+    "recipe": "Grilled Tofu with Bell Pepper and Bread: 1. Prepare the Tofu and Bell Pepper. 2. Heat pan and add Garlic. 3. Grill the Tofu for 10 mins. 4. Add Bell Pepper and serve with Bread."
+  },
+  {
+    "ingredients": "Beef, Tomato, Rice, Garlic",
+    "recipe": "Fryed Beef with Tomato and Rice: 1. Prepare the Beef and Tomato. 2. Heat pan and add Garlic. 3. Fry the Beef for 10 mins. 4. Add Tomato and serve with Rice."
+  },
+  {
+    "ingredients": "Paneer, Onion, Pasta, Salt",
+    "recipe": "Saut\u00e9ed Paneer with Onion and Pasta: 1. Prepare the Paneer and Onion. 2. Heat pan and add Salt. 3. Saut\u00e9 the Paneer for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Potato, Quinoa, Garlic",
+    "recipe": "Fryed Paneer with Potato and Quinoa: 1. Prepare the Paneer and Potato. 2. Heat pan and add Garlic. 3. Fry the Paneer for 10 mins. 4. Add Potato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Peas, Pasta, Turmeric",
+    "recipe": "Boiled Paneer with Peas and Pasta: 1. Prepare the Paneer and Peas. 2. Heat pan and add Turmeric. 3. Boil the Paneer for 10 mins. 4. Add Peas and serve with Pasta."
+  },
+  {
+    "ingredients": "Tofu, Tomato, Noodles, Ginger",
+    "recipe": "Steamed Tofu with Tomato and Noodles: 1. Prepare the Tofu and Tomato. 2. Heat pan and add Ginger. 3. Steam the Tofu for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Egg, Peas, Quinoa, Pepper",
+    "recipe": "Bakeed Egg with Peas and Quinoa: 1. Prepare the Egg and Peas. 2. Heat pan and add Pepper. 3. Bake the Egg for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Tofu, Onion, Pasta, Soy Sauce",
+    "recipe": "Steamed Tofu with Onion and Pasta: 1. Prepare the Tofu and Onion. 2. Heat pan and add Soy Sauce. 3. Steam the Tofu for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Tomato, Pasta, Cumin",
+    "recipe": "Saut\u00e9ed Paneer with Tomato and Pasta: 1. Prepare the Paneer and Tomato. 2. Heat pan and add Cumin. 3. Saut\u00e9 the Paneer for 10 mins. 4. Add Tomato and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Onion, Pasta, Turmeric",
+    "recipe": "Steamed Paneer with Onion and Pasta: 1. Prepare the Paneer and Onion. 2. Heat pan and add Turmeric. 3. Steam the Paneer for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Bell Pepper, Rice, Ginger",
+    "recipe": "Saut\u00e9ed Paneer with Bell Pepper and Rice: 1. Prepare the Paneer and Bell Pepper. 2. Heat pan and add Ginger. 3. Saut\u00e9 the Paneer for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Carrot, Quinoa, Ginger",
+    "recipe": "Grilled Chicken with Carrot and Quinoa: 1. Prepare the Chicken and Carrot. 2. Heat pan and add Ginger. 3. Grill the Chicken for 10 mins. 4. Add Carrot and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Onion, Noodles, Pepper",
+    "recipe": "Saut\u00e9ed Egg with Onion and Noodles: 1. Prepare the Egg and Onion. 2. Heat pan and add Pepper. 3. Saut\u00e9 the Egg for 10 mins. 4. Add Onion and serve with Noodles."
+  },
+  {
+    "ingredients": "Egg, Spinach, Bread, Cumin",
+    "recipe": "Steamed Egg with Spinach and Bread: 1. Prepare the Egg and Spinach. 2. Heat pan and add Cumin. 3. Steam the Egg for 10 mins. 4. Add Spinach and serve with Bread."
+  },
+  {
+    "ingredients": "Paneer, Peas, Pasta, Pepper",
+    "recipe": "Grilled Paneer with Peas and Pasta: 1. Prepare the Paneer and Peas. 2. Heat pan and add Pepper. 3. Grill the Paneer for 10 mins. 4. Add Peas and serve with Pasta."
+  },
+  {
+    "ingredients": "Chicken, Potato, Noodles, Garlic",
+    "recipe": "Steamed Chicken with Potato and Noodles: 1. Prepare the Chicken and Potato. 2. Heat pan and add Garlic. 3. Steam the Chicken for 10 mins. 4. Add Potato and serve with Noodles."
+  },
+  {
+    "ingredients": "Egg, Bell Pepper, Rice, Cumin",
+    "recipe": "Bakeed Egg with Bell Pepper and Rice: 1. Prepare the Egg and Bell Pepper. 2. Heat pan and add Cumin. 3. Bake the Egg for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Paneer, Onion, Quinoa, Cumin",
+    "recipe": "Fryed Paneer with Onion and Quinoa: 1. Prepare the Paneer and Onion. 2. Heat pan and add Cumin. 3. Fry the Paneer for 10 mins. 4. Add Onion and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Spinach, Pasta, Cumin",
+    "recipe": "Saut\u00e9ed Paneer with Spinach and Pasta: 1. Prepare the Paneer and Spinach. 2. Heat pan and add Cumin. 3. Saut\u00e9 the Paneer for 10 mins. 4. Add Spinach and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Onion, Pasta, Pepper",
+    "recipe": "Boiled Fish with Onion and Pasta: 1. Prepare the Fish and Onion. 2. Heat pan and add Pepper. 3. Boil the Fish for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Peas, Quinoa, Pepper",
+    "recipe": "Steamed Paneer with Peas and Quinoa: 1. Prepare the Paneer and Peas. 2. Heat pan and add Pepper. 3. Steam the Paneer for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Chicken, Carrot, Pasta, Garlic",
+    "recipe": "Bakeed Chicken with Carrot and Pasta: 1. Prepare the Chicken and Carrot. 2. Heat pan and add Garlic. 3. Bake the Chicken for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Onion, Bread, Cumin",
+    "recipe": "Bakeed Beef with Onion and Bread: 1. Prepare the Beef and Onion. 2. Heat pan and add Cumin. 3. Bake the Beef for 10 mins. 4. Add Onion and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Onion, Quinoa, Turmeric",
+    "recipe": "Saut\u00e9ed Chicken with Onion and Quinoa: 1. Prepare the Chicken and Onion. 2. Heat pan and add Turmeric. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Onion and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Onion, Pasta, Salt",
+    "recipe": "Saut\u00e9ed Paneer with Onion and Pasta: 1. Prepare the Paneer and Onion. 2. Heat pan and add Salt. 3. Saut\u00e9 the Paneer for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Potato, Rice, Soy Sauce",
+    "recipe": "Fryed Paneer with Potato and Rice: 1. Prepare the Paneer and Potato. 2. Heat pan and add Soy Sauce. 3. Fry the Paneer for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Spinach, Quinoa, Ginger",
+    "recipe": "Fryed Beef with Spinach and Quinoa: 1. Prepare the Beef and Spinach. 2. Heat pan and add Ginger. 3. Fry the Beef for 10 mins. 4. Add Spinach and serve with Quinoa."
+  },
+  {
+    "ingredients": "Tofu, Onion, Pasta, Soy Sauce",
+    "recipe": "Saut\u00e9ed Tofu with Onion and Pasta: 1. Prepare the Tofu and Onion. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Tofu for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Carrot, Pasta, Cumin",
+    "recipe": "Saut\u00e9ed Fish with Carrot and Pasta: 1. Prepare the Fish and Carrot. 2. Heat pan and add Cumin. 3. Saut\u00e9 the Fish for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Chicken, Bell Pepper, Rice, Garlic",
+    "recipe": "Boiled Chicken with Bell Pepper and Rice: 1. Prepare the Chicken and Bell Pepper. 2. Heat pan and add Garlic. 3. Boil the Chicken for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Tomato, Bread, Pepper",
+    "recipe": "Boiled Beef with Tomato and Bread: 1. Prepare the Beef and Tomato. 2. Heat pan and add Pepper. 3. Boil the Beef for 10 mins. 4. Add Tomato and serve with Bread."
+  },
+  {
+    "ingredients": "Egg, Carrot, Noodles, Ginger",
+    "recipe": "Bakeed Egg with Carrot and Noodles: 1. Prepare the Egg and Carrot. 2. Heat pan and add Ginger. 3. Bake the Egg for 10 mins. 4. Add Carrot and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Onion, Noodles, Cumin",
+    "recipe": "Saut\u00e9ed Fish with Onion and Noodles: 1. Prepare the Fish and Onion. 2. Heat pan and add Cumin. 3. Saut\u00e9 the Fish for 10 mins. 4. Add Onion and serve with Noodles."
+  },
+  {
+    "ingredients": "Beef, Tomato, Quinoa, Turmeric",
+    "recipe": "Bakeed Beef with Tomato and Quinoa: 1. Prepare the Beef and Tomato. 2. Heat pan and add Turmeric. 3. Bake the Beef for 10 mins. 4. Add Tomato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Spinach, Bread, Garlic",
+    "recipe": "Boiled Egg with Spinach and Bread: 1. Prepare the Egg and Spinach. 2. Heat pan and add Garlic. 3. Boil the Egg for 10 mins. 4. Add Spinach and serve with Bread."
+  },
+  {
+    "ingredients": "Beef, Potato, Rice, Salt",
+    "recipe": "Fryed Beef with Potato and Rice: 1. Prepare the Beef and Potato. 2. Heat pan and add Salt. 3. Fry the Beef for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Potato, Noodles, Garlic",
+    "recipe": "Grilled Chicken with Potato and Noodles: 1. Prepare the Chicken and Potato. 2. Heat pan and add Garlic. 3. Grill the Chicken for 10 mins. 4. Add Potato and serve with Noodles."
+  },
+  {
+    "ingredients": "Beef, Onion, Pasta, Pepper",
+    "recipe": "Steamed Beef with Onion and Pasta: 1. Prepare the Beef and Onion. 2. Heat pan and add Pepper. 3. Steam the Beef for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Bell Pepper, Pasta, Ginger",
+    "recipe": "Steamed Paneer with Bell Pepper and Pasta: 1. Prepare the Paneer and Bell Pepper. 2. Heat pan and add Ginger. 3. Steam the Paneer for 10 mins. 4. Add Bell Pepper and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Bell Pepper, Quinoa, Turmeric",
+    "recipe": "Bakeed Beef with Bell Pepper and Quinoa: 1. Prepare the Beef and Bell Pepper. 2. Heat pan and add Turmeric. 3. Bake the Beef for 10 mins. 4. Add Bell Pepper and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Bell Pepper, Quinoa, Pepper",
+    "recipe": "Bakeed Beef with Bell Pepper and Quinoa: 1. Prepare the Beef and Bell Pepper. 2. Heat pan and add Pepper. 3. Bake the Beef for 10 mins. 4. Add Bell Pepper and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Bell Pepper, Bread, Garlic",
+    "recipe": "Fryed Beef with Bell Pepper and Bread: 1. Prepare the Beef and Bell Pepper. 2. Heat pan and add Garlic. 3. Fry the Beef for 10 mins. 4. Add Bell Pepper and serve with Bread."
+  },
+  {
+    "ingredients": "Paneer, Spinach, Bread, Salt",
+    "recipe": "Grilled Paneer with Spinach and Bread: 1. Prepare the Paneer and Spinach. 2. Heat pan and add Salt. 3. Grill the Paneer for 10 mins. 4. Add Spinach and serve with Bread."
+  },
+  {
+    "ingredients": "Tofu, Potato, Pasta, Salt",
+    "recipe": "Saut\u00e9ed Tofu with Potato and Pasta: 1. Prepare the Tofu and Potato. 2. Heat pan and add Salt. 3. Saut\u00e9 the Tofu for 10 mins. 4. Add Potato and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Potato, Bread, Pepper",
+    "recipe": "Saut\u00e9ed Fish with Potato and Bread: 1. Prepare the Fish and Potato. 2. Heat pan and add Pepper. 3. Saut\u00e9 the Fish for 10 mins. 4. Add Potato and serve with Bread."
+  },
+  {
+    "ingredients": "Egg, Bell Pepper, Pasta, Pepper",
+    "recipe": "Bakeed Egg with Bell Pepper and Pasta: 1. Prepare the Egg and Bell Pepper. 2. Heat pan and add Pepper. 3. Bake the Egg for 10 mins. 4. Add Bell Pepper and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Potato, Quinoa, Ginger",
+    "recipe": "Boiled Beef with Potato and Quinoa: 1. Prepare the Beef and Potato. 2. Heat pan and add Ginger. 3. Boil the Beef for 10 mins. 4. Add Potato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Carrot, Pasta, Ginger",
+    "recipe": "Steamed Fish with Carrot and Pasta: 1. Prepare the Fish and Carrot. 2. Heat pan and add Ginger. 3. Steam the Fish for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Egg, Spinach, Pasta, Turmeric",
+    "recipe": "Grilled Egg with Spinach and Pasta: 1. Prepare the Egg and Spinach. 2. Heat pan and add Turmeric. 3. Grill the Egg for 10 mins. 4. Add Spinach and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Tomato, Noodles, Turmeric",
+    "recipe": "Saut\u00e9ed Fish with Tomato and Noodles: 1. Prepare the Fish and Tomato. 2. Heat pan and add Turmeric. 3. Saut\u00e9 the Fish for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Peas, Pasta, Ginger",
+    "recipe": "Grilled Tofu with Peas and Pasta: 1. Prepare the Tofu and Peas. 2. Heat pan and add Ginger. 3. Grill the Tofu for 10 mins. 4. Add Peas and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Bell Pepper, Rice, Pepper",
+    "recipe": "Boiled Beef with Bell Pepper and Rice: 1. Prepare the Beef and Bell Pepper. 2. Heat pan and add Pepper. 3. Boil the Beef for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Fish, Spinach, Pasta, Turmeric",
+    "recipe": "Bakeed Fish with Spinach and Pasta: 1. Prepare the Fish and Spinach. 2. Heat pan and add Turmeric. 3. Bake the Fish for 10 mins. 4. Add Spinach and serve with Pasta."
+  },
+  {
+    "ingredients": "Tofu, Peas, Quinoa, Turmeric",
+    "recipe": "Grilled Tofu with Peas and Quinoa: 1. Prepare the Tofu and Peas. 2. Heat pan and add Turmeric. 3. Grill the Tofu for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Tofu, Potato, Pasta, Ginger",
+    "recipe": "Bakeed Tofu with Potato and Pasta: 1. Prepare the Tofu and Potato. 2. Heat pan and add Ginger. 3. Bake the Tofu for 10 mins. 4. Add Potato and serve with Pasta."
+  },
+  {
+    "ingredients": "Chicken, Spinach, Rice, Soy Sauce",
+    "recipe": "Grilled Chicken with Spinach and Rice: 1. Prepare the Chicken and Spinach. 2. Heat pan and add Soy Sauce. 3. Grill the Chicken for 10 mins. 4. Add Spinach and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Bell Pepper, Pasta, Garlic",
+    "recipe": "Fryed Chicken with Bell Pepper and Pasta: 1. Prepare the Chicken and Bell Pepper. 2. Heat pan and add Garlic. 3. Fry the Chicken for 10 mins. 4. Add Bell Pepper and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Peas, Bread, Garlic",
+    "recipe": "Fryed Beef with Peas and Bread: 1. Prepare the Beef and Peas. 2. Heat pan and add Garlic. 3. Fry the Beef for 10 mins. 4. Add Peas and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Carrot, Rice, Cumin",
+    "recipe": "Bakeed Chicken with Carrot and Rice: 1. Prepare the Chicken and Carrot. 2. Heat pan and add Cumin. 3. Bake the Chicken for 10 mins. 4. Add Carrot and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Potato, Quinoa, Salt",
+    "recipe": "Steamed Tofu with Potato and Quinoa: 1. Prepare the Tofu and Potato. 2. Heat pan and add Salt. 3. Steam the Tofu for 10 mins. 4. Add Potato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Chicken, Carrot, Quinoa, Garlic",
+    "recipe": "Bakeed Chicken with Carrot and Quinoa: 1. Prepare the Chicken and Carrot. 2. Heat pan and add Garlic. 3. Bake the Chicken for 10 mins. 4. Add Carrot and serve with Quinoa."
+  },
+  {
+    "ingredients": "Tofu, Peas, Noodles, Salt",
+    "recipe": "Boiled Tofu with Peas and Noodles: 1. Prepare the Tofu and Peas. 2. Heat pan and add Salt. 3. Boil the Tofu for 10 mins. 4. Add Peas and serve with Noodles."
+  },
+  {
+    "ingredients": "Paneer, Potato, Rice, Garlic",
+    "recipe": "Boiled Paneer with Potato and Rice: 1. Prepare the Paneer and Potato. 2. Heat pan and add Garlic. 3. Boil the Paneer for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Carrot, Quinoa, Garlic",
+    "recipe": "Steamed Tofu with Carrot and Quinoa: 1. Prepare the Tofu and Carrot. 2. Heat pan and add Garlic. 3. Steam the Tofu for 10 mins. 4. Add Carrot and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Carrot, Noodles, Garlic",
+    "recipe": "Steamed Egg with Carrot and Noodles: 1. Prepare the Egg and Carrot. 2. Heat pan and add Garlic. 3. Steam the Egg for 10 mins. 4. Add Carrot and serve with Noodles."
+  },
+  {
+    "ingredients": "Beef, Peas, Quinoa, Pepper",
+    "recipe": "Grilled Beef with Peas and Quinoa: 1. Prepare the Beef and Peas. 2. Heat pan and add Pepper. 3. Grill the Beef for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Potato, Rice, Garlic",
+    "recipe": "Steamed Egg with Potato and Rice: 1. Prepare the Egg and Potato. 2. Heat pan and add Garlic. 3. Steam the Egg for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Paneer, Bell Pepper, Quinoa, Turmeric",
+    "recipe": "Saut\u00e9ed Paneer with Bell Pepper and Quinoa: 1. Prepare the Paneer and Bell Pepper. 2. Heat pan and add Turmeric. 3. Saut\u00e9 the Paneer for 10 mins. 4. Add Bell Pepper and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Onion, Pasta, Ginger",
+    "recipe": "Steamed Fish with Onion and Pasta: 1. Prepare the Fish and Onion. 2. Heat pan and add Ginger. 3. Steam the Fish for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Carrot, Rice, Cumin",
+    "recipe": "Saut\u00e9ed Paneer with Carrot and Rice: 1. Prepare the Paneer and Carrot. 2. Heat pan and add Cumin. 3. Saut\u00e9 the Paneer for 10 mins. 4. Add Carrot and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Bell Pepper, Pasta, Ginger",
+    "recipe": "Saut\u00e9ed Chicken with Bell Pepper and Pasta: 1. Prepare the Chicken and Bell Pepper. 2. Heat pan and add Ginger. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Bell Pepper and serve with Pasta."
+  },
+  {
+    "ingredients": "Egg, Potato, Rice, Ginger",
+    "recipe": "Grilled Egg with Potato and Rice: 1. Prepare the Egg and Potato. 2. Heat pan and add Ginger. 3. Grill the Egg for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Tomato, Quinoa, Cumin",
+    "recipe": "Grilled Tofu with Tomato and Quinoa: 1. Prepare the Tofu and Tomato. 2. Heat pan and add Cumin. 3. Grill the Tofu for 10 mins. 4. Add Tomato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Tofu, Potato, Pasta, Turmeric",
+    "recipe": "Steamed Tofu with Potato and Pasta: 1. Prepare the Tofu and Potato. 2. Heat pan and add Turmeric. 3. Steam the Tofu for 10 mins. 4. Add Potato and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Bell Pepper, Quinoa, Soy Sauce",
+    "recipe": "Bakeed Paneer with Bell Pepper and Quinoa: 1. Prepare the Paneer and Bell Pepper. 2. Heat pan and add Soy Sauce. 3. Bake the Paneer for 10 mins. 4. Add Bell Pepper and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Bell Pepper, Quinoa, Ginger",
+    "recipe": "Bakeed Fish with Bell Pepper and Quinoa: 1. Prepare the Fish and Bell Pepper. 2. Heat pan and add Ginger. 3. Bake the Fish for 10 mins. 4. Add Bell Pepper and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Potato, Pasta, Ginger",
+    "recipe": "Saut\u00e9ed Beef with Potato and Pasta: 1. Prepare the Beef and Potato. 2. Heat pan and add Ginger. 3. Saut\u00e9 the Beef for 10 mins. 4. Add Potato and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Carrot, Noodles, Salt",
+    "recipe": "Saut\u00e9ed Fish with Carrot and Noodles: 1. Prepare the Fish and Carrot. 2. Heat pan and add Salt. 3. Saut\u00e9 the Fish for 10 mins. 4. Add Carrot and serve with Noodles."
+  },
+  {
+    "ingredients": "Paneer, Onion, Quinoa, Soy Sauce",
+    "recipe": "Fryed Paneer with Onion and Quinoa: 1. Prepare the Paneer and Onion. 2. Heat pan and add Soy Sauce. 3. Fry the Paneer for 10 mins. 4. Add Onion and serve with Quinoa."
+  },
+  {
+    "ingredients": "Chicken, Peas, Quinoa, Ginger",
+    "recipe": "Saut\u00e9ed Chicken with Peas and Quinoa: 1. Prepare the Chicken and Peas. 2. Heat pan and add Ginger. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Tomato, Bread, Ginger",
+    "recipe": "Bakeed Beef with Tomato and Bread: 1. Prepare the Beef and Tomato. 2. Heat pan and add Ginger. 3. Bake the Beef for 10 mins. 4. Add Tomato and serve with Bread."
+  },
+  {
+    "ingredients": "Beef, Tomato, Noodles, Garlic",
+    "recipe": "Saut\u00e9ed Beef with Tomato and Noodles: 1. Prepare the Beef and Tomato. 2. Heat pan and add Garlic. 3. Saut\u00e9 the Beef for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Chicken, Potato, Quinoa, Soy Sauce",
+    "recipe": "Bakeed Chicken with Potato and Quinoa: 1. Prepare the Chicken and Potato. 2. Heat pan and add Soy Sauce. 3. Bake the Chicken for 10 mins. 4. Add Potato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Tomato, Quinoa, Soy Sauce",
+    "recipe": "Saut\u00e9ed Beef with Tomato and Quinoa: 1. Prepare the Beef and Tomato. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Beef for 10 mins. 4. Add Tomato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Potato, Bread, Ginger",
+    "recipe": "Steamed Fish with Potato and Bread: 1. Prepare the Fish and Potato. 2. Heat pan and add Ginger. 3. Steam the Fish for 10 mins. 4. Add Potato and serve with Bread."
+  },
+  {
+    "ingredients": "Beef, Spinach, Pasta, Salt",
+    "recipe": "Boiled Beef with Spinach and Pasta: 1. Prepare the Beef and Spinach. 2. Heat pan and add Salt. 3. Boil the Beef for 10 mins. 4. Add Spinach and serve with Pasta."
+  },
+  {
+    "ingredients": "Tofu, Onion, Quinoa, Pepper",
+    "recipe": "Bakeed Tofu with Onion and Quinoa: 1. Prepare the Tofu and Onion. 2. Heat pan and add Pepper. 3. Bake the Tofu for 10 mins. 4. Add Onion and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Tomato, Quinoa, Cumin",
+    "recipe": "Bakeed Beef with Tomato and Quinoa: 1. Prepare the Beef and Tomato. 2. Heat pan and add Cumin. 3. Bake the Beef for 10 mins. 4. Add Tomato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Tomato, Bread, Salt",
+    "recipe": "Grilled Egg with Tomato and Bread: 1. Prepare the Egg and Tomato. 2. Heat pan and add Salt. 3. Grill the Egg for 10 mins. 4. Add Tomato and serve with Bread."
+  },
+  {
+    "ingredients": "Fish, Peas, Noodles, Pepper",
+    "recipe": "Fryed Fish with Peas and Noodles: 1. Prepare the Fish and Peas. 2. Heat pan and add Pepper. 3. Fry the Fish for 10 mins. 4. Add Peas and serve with Noodles."
+  },
+  {
+    "ingredients": "Beef, Tomato, Quinoa, Cumin",
+    "recipe": "Grilled Beef with Tomato and Quinoa: 1. Prepare the Beef and Tomato. 2. Heat pan and add Cumin. 3. Grill the Beef for 10 mins. 4. Add Tomato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Potato, Rice, Garlic",
+    "recipe": "Saut\u00e9ed Egg with Potato and Rice: 1. Prepare the Egg and Potato. 2. Heat pan and add Garlic. 3. Saut\u00e9 the Egg for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Peas, Noodles, Cumin",
+    "recipe": "Grilled Tofu with Peas and Noodles: 1. Prepare the Tofu and Peas. 2. Heat pan and add Cumin. 3. Grill the Tofu for 10 mins. 4. Add Peas and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Potato, Noodles, Cumin",
+    "recipe": "Saut\u00e9ed Tofu with Potato and Noodles: 1. Prepare the Tofu and Potato. 2. Heat pan and add Cumin. 3. Saut\u00e9 the Tofu for 10 mins. 4. Add Potato and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Tomato, Bread, Turmeric",
+    "recipe": "Bakeed Tofu with Tomato and Bread: 1. Prepare the Tofu and Tomato. 2. Heat pan and add Turmeric. 3. Bake the Tofu for 10 mins. 4. Add Tomato and serve with Bread."
+  },
+  {
+    "ingredients": "Egg, Spinach, Rice, Turmeric",
+    "recipe": "Fryed Egg with Spinach and Rice: 1. Prepare the Egg and Spinach. 2. Heat pan and add Turmeric. 3. Fry the Egg for 10 mins. 4. Add Spinach and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Tomato, Noodles, Ginger",
+    "recipe": "Steamed Tofu with Tomato and Noodles: 1. Prepare the Tofu and Tomato. 2. Heat pan and add Ginger. 3. Steam the Tofu for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Potato, Noodles, Garlic",
+    "recipe": "Bakeed Tofu with Potato and Noodles: 1. Prepare the Tofu and Potato. 2. Heat pan and add Garlic. 3. Bake the Tofu for 10 mins. 4. Add Potato and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Peas, Rice, Salt",
+    "recipe": "Bakeed Fish with Peas and Rice: 1. Prepare the Fish and Peas. 2. Heat pan and add Salt. 3. Bake the Fish for 10 mins. 4. Add Peas and serve with Rice."
+  },
+  {
+    "ingredients": "Fish, Tomato, Rice, Turmeric",
+    "recipe": "Fryed Fish with Tomato and Rice: 1. Prepare the Fish and Tomato. 2. Heat pan and add Turmeric. 3. Fry the Fish for 10 mins. 4. Add Tomato and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Bell Pepper, Quinoa, Ginger",
+    "recipe": "Bakeed Egg with Bell Pepper and Quinoa: 1. Prepare the Egg and Bell Pepper. 2. Heat pan and add Ginger. 3. Bake the Egg for 10 mins. 4. Add Bell Pepper and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Peas, Quinoa, Cumin",
+    "recipe": "Bakeed Paneer with Peas and Quinoa: 1. Prepare the Paneer and Peas. 2. Heat pan and add Cumin. 3. Bake the Paneer for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Tofu, Onion, Noodles, Cumin",
+    "recipe": "Fryed Tofu with Onion and Noodles: 1. Prepare the Tofu and Onion. 2. Heat pan and add Cumin. 3. Fry the Tofu for 10 mins. 4. Add Onion and serve with Noodles."
+  },
+  {
+    "ingredients": "Beef, Potato, Rice, Pepper",
+    "recipe": "Saut\u00e9ed Beef with Potato and Rice: 1. Prepare the Beef and Potato. 2. Heat pan and add Pepper. 3. Saut\u00e9 the Beef for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Peas, Bread, Ginger",
+    "recipe": "Boiled Chicken with Peas and Bread: 1. Prepare the Chicken and Peas. 2. Heat pan and add Ginger. 3. Boil the Chicken for 10 mins. 4. Add Peas and serve with Bread."
+  },
+  {
+    "ingredients": "Paneer, Peas, Pasta, Pepper",
+    "recipe": "Steamed Paneer with Peas and Pasta: 1. Prepare the Paneer and Peas. 2. Heat pan and add Pepper. 3. Steam the Paneer for 10 mins. 4. Add Peas and serve with Pasta."
+  },
+  {
+    "ingredients": "Egg, Onion, Bread, Pepper",
+    "recipe": "Saut\u00e9ed Egg with Onion and Bread: 1. Prepare the Egg and Onion. 2. Heat pan and add Pepper. 3. Saut\u00e9 the Egg for 10 mins. 4. Add Onion and serve with Bread."
+  },
+  {
+    "ingredients": "Egg, Bell Pepper, Noodles, Garlic",
+    "recipe": "Fryed Egg with Bell Pepper and Noodles: 1. Prepare the Egg and Bell Pepper. 2. Heat pan and add Garlic. 3. Fry the Egg for 10 mins. 4. Add Bell Pepper and serve with Noodles."
+  },
+  {
+    "ingredients": "Egg, Carrot, Bread, Cumin",
+    "recipe": "Bakeed Egg with Carrot and Bread: 1. Prepare the Egg and Carrot. 2. Heat pan and add Cumin. 3. Bake the Egg for 10 mins. 4. Add Carrot and serve with Bread."
+  },
+  {
+    "ingredients": "Fish, Tomato, Pasta, Soy Sauce",
+    "recipe": "Steamed Fish with Tomato and Pasta: 1. Prepare the Fish and Tomato. 2. Heat pan and add Soy Sauce. 3. Steam the Fish for 10 mins. 4. Add Tomato and serve with Pasta."
+  },
+  {
+    "ingredients": "Chicken, Onion, Quinoa, Salt",
+    "recipe": "Boiled Chicken with Onion and Quinoa: 1. Prepare the Chicken and Onion. 2. Heat pan and add Salt. 3. Boil the Chicken for 10 mins. 4. Add Onion and serve with Quinoa."
+  },
+  {
+    "ingredients": "Chicken, Peas, Rice, Pepper",
+    "recipe": "Grilled Chicken with Peas and Rice: 1. Prepare the Chicken and Peas. 2. Heat pan and add Pepper. 3. Grill the Chicken for 10 mins. 4. Add Peas and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Carrot, Pasta, Garlic",
+    "recipe": "Boiled Egg with Carrot and Pasta: 1. Prepare the Egg and Carrot. 2. Heat pan and add Garlic. 3. Boil the Egg for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Carrot, Pasta, Soy Sauce",
+    "recipe": "Saut\u00e9ed Paneer with Carrot and Pasta: 1. Prepare the Paneer and Carrot. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Paneer for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Chicken, Onion, Rice, Turmeric",
+    "recipe": "Fryed Chicken with Onion and Rice: 1. Prepare the Chicken and Onion. 2. Heat pan and add Turmeric. 3. Fry the Chicken for 10 mins. 4. Add Onion and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Onion, Noodles, Pepper",
+    "recipe": "Bakeed Chicken with Onion and Noodles: 1. Prepare the Chicken and Onion. 2. Heat pan and add Pepper. 3. Bake the Chicken for 10 mins. 4. Add Onion and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Carrot, Noodles, Ginger",
+    "recipe": "Fryed Fish with Carrot and Noodles: 1. Prepare the Fish and Carrot. 2. Heat pan and add Ginger. 3. Fry the Fish for 10 mins. 4. Add Carrot and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Tomato, Noodles, Turmeric",
+    "recipe": "Boiled Tofu with Tomato and Noodles: 1. Prepare the Tofu and Tomato. 2. Heat pan and add Turmeric. 3. Boil the Tofu for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Paneer, Peas, Quinoa, Turmeric",
+    "recipe": "Boiled Paneer with Peas and Quinoa: 1. Prepare the Paneer and Peas. 2. Heat pan and add Turmeric. 3. Boil the Paneer for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Onion, Rice, Garlic",
+    "recipe": "Fryed Fish with Onion and Rice: 1. Prepare the Fish and Onion. 2. Heat pan and add Garlic. 3. Fry the Fish for 10 mins. 4. Add Onion and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Onion, Pasta, Soy Sauce",
+    "recipe": "Bakeed Egg with Onion and Pasta: 1. Prepare the Egg and Onion. 2. Heat pan and add Soy Sauce. 3. Bake the Egg for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Spinach, Quinoa, Soy Sauce",
+    "recipe": "Grilled Fish with Spinach and Quinoa: 1. Prepare the Fish and Spinach. 2. Heat pan and add Soy Sauce. 3. Grill the Fish for 10 mins. 4. Add Spinach and serve with Quinoa."
+  },
+  {
+    "ingredients": "Chicken, Carrot, Bread, Turmeric",
+    "recipe": "Fryed Chicken with Carrot and Bread: 1. Prepare the Chicken and Carrot. 2. Heat pan and add Turmeric. 3. Fry the Chicken for 10 mins. 4. Add Carrot and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Bell Pepper, Rice, Turmeric",
+    "recipe": "Saut\u00e9ed Chicken with Bell Pepper and Rice: 1. Prepare the Chicken and Bell Pepper. 2. Heat pan and add Turmeric. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Carrot, Rice, Garlic",
+    "recipe": "Boiled Egg with Carrot and Rice: 1. Prepare the Egg and Carrot. 2. Heat pan and add Garlic. 3. Boil the Egg for 10 mins. 4. Add Carrot and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Onion, Quinoa, Salt",
+    "recipe": "Saut\u00e9ed Tofu with Onion and Quinoa: 1. Prepare the Tofu and Onion. 2. Heat pan and add Salt. 3. Saut\u00e9 the Tofu for 10 mins. 4. Add Onion and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Potato, Bread, Salt",
+    "recipe": "Boiled Paneer with Potato and Bread: 1. Prepare the Paneer and Potato. 2. Heat pan and add Salt. 3. Boil the Paneer for 10 mins. 4. Add Potato and serve with Bread."
+  },
+  {
+    "ingredients": "Egg, Peas, Pasta, Soy Sauce",
+    "recipe": "Bakeed Egg with Peas and Pasta: 1. Prepare the Egg and Peas. 2. Heat pan and add Soy Sauce. 3. Bake the Egg for 10 mins. 4. Add Peas and serve with Pasta."
+  },
+  {
+    "ingredients": "Chicken, Onion, Quinoa, Turmeric",
+    "recipe": "Boiled Chicken with Onion and Quinoa: 1. Prepare the Chicken and Onion. 2. Heat pan and add Turmeric. 3. Boil the Chicken for 10 mins. 4. Add Onion and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Potato, Rice, Soy Sauce",
+    "recipe": "Bakeed Beef with Potato and Rice: 1. Prepare the Beef and Potato. 2. Heat pan and add Soy Sauce. 3. Bake the Beef for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Tomato, Rice, Turmeric",
+    "recipe": "Fryed Chicken with Tomato and Rice: 1. Prepare the Chicken and Tomato. 2. Heat pan and add Turmeric. 3. Fry the Chicken for 10 mins. 4. Add Tomato and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Tomato, Noodles, Salt",
+    "recipe": "Steamed Beef with Tomato and Noodles: 1. Prepare the Beef and Tomato. 2. Heat pan and add Salt. 3. Steam the Beef for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Egg, Tomato, Rice, Turmeric",
+    "recipe": "Boiled Egg with Tomato and Rice: 1. Prepare the Egg and Tomato. 2. Heat pan and add Turmeric. 3. Boil the Egg for 10 mins. 4. Add Tomato and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Spinach, Pasta, Pepper",
+    "recipe": "Steamed Egg with Spinach and Pasta: 1. Prepare the Egg and Spinach. 2. Heat pan and add Pepper. 3. Steam the Egg for 10 mins. 4. Add Spinach and serve with Pasta."
+  },
+  {
+    "ingredients": "Egg, Tomato, Quinoa, Soy Sauce",
+    "recipe": "Grilled Egg with Tomato and Quinoa: 1. Prepare the Egg and Tomato. 2. Heat pan and add Soy Sauce. 3. Grill the Egg for 10 mins. 4. Add Tomato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Egg, Tomato, Quinoa, Salt",
+    "recipe": "Grilled Egg with Tomato and Quinoa: 1. Prepare the Egg and Tomato. 2. Heat pan and add Salt. 3. Grill the Egg for 10 mins. 4. Add Tomato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Carrot, Pasta, Salt",
+    "recipe": "Bakeed Beef with Carrot and Pasta: 1. Prepare the Beef and Carrot. 2. Heat pan and add Salt. 3. Bake the Beef for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Peas, Noodles, Turmeric",
+    "recipe": "Saut\u00e9ed Fish with Peas and Noodles: 1. Prepare the Fish and Peas. 2. Heat pan and add Turmeric. 3. Saut\u00e9 the Fish for 10 mins. 4. Add Peas and serve with Noodles."
+  },
+  {
+    "ingredients": "Beef, Peas, Bread, Garlic",
+    "recipe": "Bakeed Beef with Peas and Bread: 1. Prepare the Beef and Peas. 2. Heat pan and add Garlic. 3. Bake the Beef for 10 mins. 4. Add Peas and serve with Bread."
+  },
+  {
+    "ingredients": "Tofu, Onion, Noodles, Ginger",
+    "recipe": "Boiled Tofu with Onion and Noodles: 1. Prepare the Tofu and Onion. 2. Heat pan and add Ginger. 3. Boil the Tofu for 10 mins. 4. Add Onion and serve with Noodles."
+  },
+  {
+    "ingredients": "Paneer, Potato, Pasta, Garlic",
+    "recipe": "Grilled Paneer with Potato and Pasta: 1. Prepare the Paneer and Potato. 2. Heat pan and add Garlic. 3. Grill the Paneer for 10 mins. 4. Add Potato and serve with Pasta."
+  },
+  {
+    "ingredients": "Chicken, Spinach, Noodles, Pepper",
+    "recipe": "Saut\u00e9ed Chicken with Spinach and Noodles: 1. Prepare the Chicken and Spinach. 2. Heat pan and add Pepper. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Spinach and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Potato, Rice, Garlic",
+    "recipe": "Steamed Fish with Potato and Rice: 1. Prepare the Fish and Potato. 2. Heat pan and add Garlic. 3. Steam the Fish for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Paneer, Bell Pepper, Bread, Garlic",
+    "recipe": "Boiled Paneer with Bell Pepper and Bread: 1. Prepare the Paneer and Bell Pepper. 2. Heat pan and add Garlic. 3. Boil the Paneer for 10 mins. 4. Add Bell Pepper and serve with Bread."
+  },
+  {
+    "ingredients": "Beef, Onion, Pasta, Cumin",
+    "recipe": "Steamed Beef with Onion and Pasta: 1. Prepare the Beef and Onion. 2. Heat pan and add Cumin. 3. Steam the Beef for 10 mins. 4. Add Onion and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Potato, Noodles, Pepper",
+    "recipe": "Grilled Beef with Potato and Noodles: 1. Prepare the Beef and Potato. 2. Heat pan and add Pepper. 3. Grill the Beef for 10 mins. 4. Add Potato and serve with Noodles."
+  },
+  {
+    "ingredients": "Chicken, Bell Pepper, Noodles, Cumin",
+    "recipe": "Fryed Chicken with Bell Pepper and Noodles: 1. Prepare the Chicken and Bell Pepper. 2. Heat pan and add Cumin. 3. Fry the Chicken for 10 mins. 4. Add Bell Pepper and serve with Noodles."
+  },
+  {
+    "ingredients": "Beef, Tomato, Rice, Garlic",
+    "recipe": "Grilled Beef with Tomato and Rice: 1. Prepare the Beef and Tomato. 2. Heat pan and add Garlic. 3. Grill the Beef for 10 mins. 4. Add Tomato and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Peas, Pasta, Cumin",
+    "recipe": "Fryed Chicken with Peas and Pasta: 1. Prepare the Chicken and Peas. 2. Heat pan and add Cumin. 3. Fry the Chicken for 10 mins. 4. Add Peas and serve with Pasta."
+  },
+  {
+    "ingredients": "Chicken, Tomato, Rice, Soy Sauce",
+    "recipe": "Saut\u00e9ed Chicken with Tomato and Rice: 1. Prepare the Chicken and Tomato. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Tomato and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Tomato, Noodles, Salt",
+    "recipe": "Bakeed Egg with Tomato and Noodles: 1. Prepare the Egg and Tomato. 2. Heat pan and add Salt. 3. Bake the Egg for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Chicken, Bell Pepper, Rice, Soy Sauce",
+    "recipe": "Saut\u00e9ed Chicken with Bell Pepper and Rice: 1. Prepare the Chicken and Bell Pepper. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Fish, Peas, Quinoa, Soy Sauce",
+    "recipe": "Boiled Fish with Peas and Quinoa: 1. Prepare the Fish and Peas. 2. Heat pan and add Soy Sauce. 3. Boil the Fish for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Spinach, Noodles, Soy Sauce",
+    "recipe": "Bakeed Fish with Spinach and Noodles: 1. Prepare the Fish and Spinach. 2. Heat pan and add Soy Sauce. 3. Bake the Fish for 10 mins. 4. Add Spinach and serve with Noodles."
+  },
+  {
+    "ingredients": "Paneer, Peas, Noodles, Garlic",
+    "recipe": "Steamed Paneer with Peas and Noodles: 1. Prepare the Paneer and Peas. 2. Heat pan and add Garlic. 3. Steam the Paneer for 10 mins. 4. Add Peas and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Peas, Rice, Ginger",
+    "recipe": "Grilled Tofu with Peas and Rice: 1. Prepare the Tofu and Peas. 2. Heat pan and add Ginger. 3. Grill the Tofu for 10 mins. 4. Add Peas and serve with Rice."
+  },
+  {
+    "ingredients": "Fish, Bell Pepper, Pasta, Pepper",
+    "recipe": "Bakeed Fish with Bell Pepper and Pasta: 1. Prepare the Fish and Bell Pepper. 2. Heat pan and add Pepper. 3. Bake the Fish for 10 mins. 4. Add Bell Pepper and serve with Pasta."
+  },
+  {
+    "ingredients": "Egg, Peas, Bread, Cumin",
+    "recipe": "Saut\u00e9ed Egg with Peas and Bread: 1. Prepare the Egg and Peas. 2. Heat pan and add Cumin. 3. Saut\u00e9 the Egg for 10 mins. 4. Add Peas and serve with Bread."
+  },
+  {
+    "ingredients": "Beef, Bell Pepper, Quinoa, Cumin",
+    "recipe": "Saut\u00e9ed Beef with Bell Pepper and Quinoa: 1. Prepare the Beef and Bell Pepper. 2. Heat pan and add Cumin. 3. Saut\u00e9 the Beef for 10 mins. 4. Add Bell Pepper and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Spinach, Rice, Pepper",
+    "recipe": "Saut\u00e9ed Beef with Spinach and Rice: 1. Prepare the Beef and Spinach. 2. Heat pan and add Pepper. 3. Saut\u00e9 the Beef for 10 mins. 4. Add Spinach and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Carrot, Quinoa, Ginger",
+    "recipe": "Grilled Beef with Carrot and Quinoa: 1. Prepare the Beef and Carrot. 2. Heat pan and add Ginger. 3. Grill the Beef for 10 mins. 4. Add Carrot and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Spinach, Noodles, Soy Sauce",
+    "recipe": "Steamed Beef with Spinach and Noodles: 1. Prepare the Beef and Spinach. 2. Heat pan and add Soy Sauce. 3. Steam the Beef for 10 mins. 4. Add Spinach and serve with Noodles."
+  },
+  {
+    "ingredients": "Paneer, Bell Pepper, Pasta, Cumin",
+    "recipe": "Steamed Paneer with Bell Pepper and Pasta: 1. Prepare the Paneer and Bell Pepper. 2. Heat pan and add Cumin. 3. Steam the Paneer for 10 mins. 4. Add Bell Pepper and serve with Pasta."
+  },
+  {
+    "ingredients": "Tofu, Bell Pepper, Rice, Garlic",
+    "recipe": "Fryed Tofu with Bell Pepper and Rice: 1. Prepare the Tofu and Bell Pepper. 2. Heat pan and add Garlic. 3. Fry the Tofu for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Bell Pepper, Noodles, Ginger",
+    "recipe": "Boiled Tofu with Bell Pepper and Noodles: 1. Prepare the Tofu and Bell Pepper. 2. Heat pan and add Ginger. 3. Boil the Tofu for 10 mins. 4. Add Bell Pepper and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Peas, Rice, Garlic",
+    "recipe": "Fryed Tofu with Peas and Rice: 1. Prepare the Tofu and Peas. 2. Heat pan and add Garlic. 3. Fry the Tofu for 10 mins. 4. Add Peas and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Carrot, Bread, Garlic",
+    "recipe": "Steamed Egg with Carrot and Bread: 1. Prepare the Egg and Carrot. 2. Heat pan and add Garlic. 3. Steam the Egg for 10 mins. 4. Add Carrot and serve with Bread."
+  },
+  {
+    "ingredients": "Paneer, Potato, Noodles, Turmeric",
+    "recipe": "Fryed Paneer with Potato and Noodles: 1. Prepare the Paneer and Potato. 2. Heat pan and add Turmeric. 3. Fry the Paneer for 10 mins. 4. Add Potato and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Potato, Pasta, Salt",
+    "recipe": "Bakeed Tofu with Potato and Pasta: 1. Prepare the Tofu and Potato. 2. Heat pan and add Salt. 3. Bake the Tofu for 10 mins. 4. Add Potato and serve with Pasta."
+  },
+  {
+    "ingredients": "Chicken, Potato, Bread, Salt",
+    "recipe": "Fryed Chicken with Potato and Bread: 1. Prepare the Chicken and Potato. 2. Heat pan and add Salt. 3. Fry the Chicken for 10 mins. 4. Add Potato and serve with Bread."
+  },
+  {
+    "ingredients": "Paneer, Onion, Rice, Salt",
+    "recipe": "Steamed Paneer with Onion and Rice: 1. Prepare the Paneer and Onion. 2. Heat pan and add Salt. 3. Steam the Paneer for 10 mins. 4. Add Onion and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Carrot, Quinoa, Turmeric",
+    "recipe": "Grilled Beef with Carrot and Quinoa: 1. Prepare the Beef and Carrot. 2. Heat pan and add Turmeric. 3. Grill the Beef for 10 mins. 4. Add Carrot and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Spinach, Noodles, Soy Sauce",
+    "recipe": "Saut\u00e9ed Paneer with Spinach and Noodles: 1. Prepare the Paneer and Spinach. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Paneer for 10 mins. 4. Add Spinach and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Bell Pepper, Rice, Ginger",
+    "recipe": "Bakeed Tofu with Bell Pepper and Rice: 1. Prepare the Tofu and Bell Pepper. 2. Heat pan and add Ginger. 3. Bake the Tofu for 10 mins. 4. Add Bell Pepper and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Carrot, Rice, Ginger",
+    "recipe": "Steamed Beef with Carrot and Rice: 1. Prepare the Beef and Carrot. 2. Heat pan and add Ginger. 3. Steam the Beef for 10 mins. 4. Add Carrot and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Peas, Bread, Garlic",
+    "recipe": "Saut\u00e9ed Chicken with Peas and Bread: 1. Prepare the Chicken and Peas. 2. Heat pan and add Garlic. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Peas and serve with Bread."
+  },
+  {
+    "ingredients": "Fish, Onion, Rice, Garlic",
+    "recipe": "Steamed Fish with Onion and Rice: 1. Prepare the Fish and Onion. 2. Heat pan and add Garlic. 3. Steam the Fish for 10 mins. 4. Add Onion and serve with Rice."
+  },
+  {
+    "ingredients": "Beef, Spinach, Bread, Pepper",
+    "recipe": "Grilled Beef with Spinach and Bread: 1. Prepare the Beef and Spinach. 2. Heat pan and add Pepper. 3. Grill the Beef for 10 mins. 4. Add Spinach and serve with Bread."
+  },
+  {
+    "ingredients": "Egg, Potato, Bread, Salt",
+    "recipe": "Saut\u00e9ed Egg with Potato and Bread: 1. Prepare the Egg and Potato. 2. Heat pan and add Salt. 3. Saut\u00e9 the Egg for 10 mins. 4. Add Potato and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Bell Pepper, Bread, Ginger",
+    "recipe": "Bakeed Chicken with Bell Pepper and Bread: 1. Prepare the Chicken and Bell Pepper. 2. Heat pan and add Ginger. 3. Bake the Chicken for 10 mins. 4. Add Bell Pepper and serve with Bread."
+  },
+  {
+    "ingredients": "Beef, Potato, Pasta, Turmeric",
+    "recipe": "Grilled Beef with Potato and Pasta: 1. Prepare the Beef and Potato. 2. Heat pan and add Turmeric. 3. Grill the Beef for 10 mins. 4. Add Potato and serve with Pasta."
+  },
+  {
+    "ingredients": "Egg, Carrot, Pasta, Turmeric",
+    "recipe": "Fryed Egg with Carrot and Pasta: 1. Prepare the Egg and Carrot. 2. Heat pan and add Turmeric. 3. Fry the Egg for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Peas, Rice, Soy Sauce",
+    "recipe": "Saut\u00e9ed Fish with Peas and Rice: 1. Prepare the Fish and Peas. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Fish for 10 mins. 4. Add Peas and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Bell Pepper, Noodles, Ginger",
+    "recipe": "Steamed Tofu with Bell Pepper and Noodles: 1. Prepare the Tofu and Bell Pepper. 2. Heat pan and add Ginger. 3. Steam the Tofu for 10 mins. 4. Add Bell Pepper and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Tomato, Noodles, Cumin",
+    "recipe": "Grilled Tofu with Tomato and Noodles: 1. Prepare the Tofu and Tomato. 2. Heat pan and add Cumin. 3. Grill the Tofu for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Paneer, Carrot, Rice, Turmeric",
+    "recipe": "Saut\u00e9ed Paneer with Carrot and Rice: 1. Prepare the Paneer and Carrot. 2. Heat pan and add Turmeric. 3. Saut\u00e9 the Paneer for 10 mins. 4. Add Carrot and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Tomato, Quinoa, Garlic",
+    "recipe": "Boiled Egg with Tomato and Quinoa: 1. Prepare the Egg and Tomato. 2. Heat pan and add Garlic. 3. Boil the Egg for 10 mins. 4. Add Tomato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Potato, Pasta, Soy Sauce",
+    "recipe": "Steamed Beef with Potato and Pasta: 1. Prepare the Beef and Potato. 2. Heat pan and add Soy Sauce. 3. Steam the Beef for 10 mins. 4. Add Potato and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Bell Pepper, Bread, Garlic",
+    "recipe": "Grilled Fish with Bell Pepper and Bread: 1. Prepare the Fish and Bell Pepper. 2. Heat pan and add Garlic. 3. Grill the Fish for 10 mins. 4. Add Bell Pepper and serve with Bread."
+  },
+  {
+    "ingredients": "Egg, Onion, Rice, Pepper",
+    "recipe": "Bakeed Egg with Onion and Rice: 1. Prepare the Egg and Onion. 2. Heat pan and add Pepper. 3. Bake the Egg for 10 mins. 4. Add Onion and serve with Rice."
+  },
+  {
+    "ingredients": "Chicken, Tomato, Quinoa, Ginger",
+    "recipe": "Fryed Chicken with Tomato and Quinoa: 1. Prepare the Chicken and Tomato. 2. Heat pan and add Ginger. 3. Fry the Chicken for 10 mins. 4. Add Tomato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Chicken, Bell Pepper, Noodles, Soy Sauce",
+    "recipe": "Grilled Chicken with Bell Pepper and Noodles: 1. Prepare the Chicken and Bell Pepper. 2. Heat pan and add Soy Sauce. 3. Grill the Chicken for 10 mins. 4. Add Bell Pepper and serve with Noodles."
+  },
+  {
+    "ingredients": "Tofu, Spinach, Noodles, Cumin",
+    "recipe": "Bakeed Tofu with Spinach and Noodles: 1. Prepare the Tofu and Spinach. 2. Heat pan and add Cumin. 3. Bake the Tofu for 10 mins. 4. Add Spinach and serve with Noodles."
+  },
+  {
+    "ingredients": "Egg, Tomato, Pasta, Pepper",
+    "recipe": "Steamed Egg with Tomato and Pasta: 1. Prepare the Egg and Tomato. 2. Heat pan and add Pepper. 3. Steam the Egg for 10 mins. 4. Add Tomato and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Carrot, Rice, Ginger",
+    "recipe": "Grilled Fish with Carrot and Rice: 1. Prepare the Fish and Carrot. 2. Heat pan and add Ginger. 3. Grill the Fish for 10 mins. 4. Add Carrot and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Carrot, Pasta, Garlic",
+    "recipe": "Steamed Egg with Carrot and Pasta: 1. Prepare the Egg and Carrot. 2. Heat pan and add Garlic. 3. Steam the Egg for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Tofu, Onion, Quinoa, Soy Sauce",
+    "recipe": "Saut\u00e9ed Tofu with Onion and Quinoa: 1. Prepare the Tofu and Onion. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Tofu for 10 mins. 4. Add Onion and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Carrot, Quinoa, Ginger",
+    "recipe": "Grilled Paneer with Carrot and Quinoa: 1. Prepare the Paneer and Carrot. 2. Heat pan and add Ginger. 3. Grill the Paneer for 10 mins. 4. Add Carrot and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Spinach, Quinoa, Soy Sauce",
+    "recipe": "Boiled Paneer with Spinach and Quinoa: 1. Prepare the Paneer and Spinach. 2. Heat pan and add Soy Sauce. 3. Boil the Paneer for 10 mins. 4. Add Spinach and serve with Quinoa."
+  },
+  {
+    "ingredients": "Chicken, Potato, Pasta, Cumin",
+    "recipe": "Boiled Chicken with Potato and Pasta: 1. Prepare the Chicken and Potato. 2. Heat pan and add Cumin. 3. Boil the Chicken for 10 mins. 4. Add Potato and serve with Pasta."
+  },
+  {
+    "ingredients": "Fish, Onion, Quinoa, Turmeric",
+    "recipe": "Boiled Fish with Onion and Quinoa: 1. Prepare the Fish and Onion. 2. Heat pan and add Turmeric. 3. Boil the Fish for 10 mins. 4. Add Onion and serve with Quinoa."
+  },
+  {
+    "ingredients": "Chicken, Potato, Rice, Garlic",
+    "recipe": "Steamed Chicken with Potato and Rice: 1. Prepare the Chicken and Potato. 2. Heat pan and add Garlic. 3. Steam the Chicken for 10 mins. 4. Add Potato and serve with Rice."
+  },
+  {
+    "ingredients": "Egg, Peas, Bread, Salt",
+    "recipe": "Boiled Egg with Peas and Bread: 1. Prepare the Egg and Peas. 2. Heat pan and add Salt. 3. Boil the Egg for 10 mins. 4. Add Peas and serve with Bread."
+  },
+  {
+    "ingredients": "Fish, Carrot, Pasta, Ginger",
+    "recipe": "Steamed Fish with Carrot and Pasta: 1. Prepare the Fish and Carrot. 2. Heat pan and add Ginger. 3. Steam the Fish for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Peas, Bread, Turmeric",
+    "recipe": "Bakeed Beef with Peas and Bread: 1. Prepare the Beef and Peas. 2. Heat pan and add Turmeric. 3. Bake the Beef for 10 mins. 4. Add Peas and serve with Bread."
+  },
+  {
+    "ingredients": "Fish, Tomato, Pasta, Turmeric",
+    "recipe": "Saut\u00e9ed Fish with Tomato and Pasta: 1. Prepare the Fish and Tomato. 2. Heat pan and add Turmeric. 3. Saut\u00e9 the Fish for 10 mins. 4. Add Tomato and serve with Pasta."
+  },
+  {
+    "ingredients": "Egg, Peas, Quinoa, Soy Sauce",
+    "recipe": "Steamed Egg with Peas and Quinoa: 1. Prepare the Egg and Peas. 2. Heat pan and add Soy Sauce. 3. Steam the Egg for 10 mins. 4. Add Peas and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Bell Pepper, Bread, Pepper",
+    "recipe": "Boiled Beef with Bell Pepper and Bread: 1. Prepare the Beef and Bell Pepper. 2. Heat pan and add Pepper. 3. Boil the Beef for 10 mins. 4. Add Bell Pepper and serve with Bread."
+  },
+  {
+    "ingredients": "Egg, Onion, Quinoa, Turmeric",
+    "recipe": "Boiled Egg with Onion and Quinoa: 1. Prepare the Egg and Onion. 2. Heat pan and add Turmeric. 3. Boil the Egg for 10 mins. 4. Add Onion and serve with Quinoa."
+  },
+  {
+    "ingredients": "Beef, Potato, Bread, Cumin",
+    "recipe": "Grilled Beef with Potato and Bread: 1. Prepare the Beef and Potato. 2. Heat pan and add Cumin. 3. Grill the Beef for 10 mins. 4. Add Potato and serve with Bread."
+  },
+  {
+    "ingredients": "Paneer, Potato, Bread, Pepper",
+    "recipe": "Fryed Paneer with Potato and Bread: 1. Prepare the Paneer and Potato. 2. Heat pan and add Pepper. 3. Fry the Paneer for 10 mins. 4. Add Potato and serve with Bread."
+  },
+  {
+    "ingredients": "Egg, Peas, Pasta, Pepper",
+    "recipe": "Fryed Egg with Peas and Pasta: 1. Prepare the Egg and Peas. 2. Heat pan and add Pepper. 3. Fry the Egg for 10 mins. 4. Add Peas and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Tomato, Rice, Garlic",
+    "recipe": "Steamed Paneer with Tomato and Rice: 1. Prepare the Paneer and Tomato. 2. Heat pan and add Garlic. 3. Steam the Paneer for 10 mins. 4. Add Tomato and serve with Rice."
+  },
+  {
+    "ingredients": "Tofu, Onion, Bread, Ginger",
+    "recipe": "Saut\u00e9ed Tofu with Onion and Bread: 1. Prepare the Tofu and Onion. 2. Heat pan and add Ginger. 3. Saut\u00e9 the Tofu for 10 mins. 4. Add Onion and serve with Bread."
+  },
+  {
+    "ingredients": "Egg, Tomato, Noodles, Ginger",
+    "recipe": "Steamed Egg with Tomato and Noodles: 1. Prepare the Egg and Tomato. 2. Heat pan and add Ginger. 3. Steam the Egg for 10 mins. 4. Add Tomato and serve with Noodles."
+  },
+  {
+    "ingredients": "Paneer, Tomato, Rice, Garlic",
+    "recipe": "Grilled Paneer with Tomato and Rice: 1. Prepare the Paneer and Tomato. 2. Heat pan and add Garlic. 3. Grill the Paneer for 10 mins. 4. Add Tomato and serve with Rice."
+  },
+  {
+    "ingredients": "Paneer, Potato, Pasta, Cumin",
+    "recipe": "Bakeed Paneer with Potato and Pasta: 1. Prepare the Paneer and Potato. 2. Heat pan and add Cumin. 3. Bake the Paneer for 10 mins. 4. Add Potato and serve with Pasta."
+  },
+  {
+    "ingredients": "Tofu, Carrot, Noodles, Garlic",
+    "recipe": "Steamed Tofu with Carrot and Noodles: 1. Prepare the Tofu and Carrot. 2. Heat pan and add Garlic. 3. Steam the Tofu for 10 mins. 4. Add Carrot and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Potato, Bread, Pepper",
+    "recipe": "Fryed Fish with Potato and Bread: 1. Prepare the Fish and Potato. 2. Heat pan and add Pepper. 3. Fry the Fish for 10 mins. 4. Add Potato and serve with Bread."
+  },
+  {
+    "ingredients": "Paneer, Bell Pepper, Quinoa, Garlic",
+    "recipe": "Boiled Paneer with Bell Pepper and Quinoa: 1. Prepare the Paneer and Bell Pepper. 2. Heat pan and add Garlic. 3. Boil the Paneer for 10 mins. 4. Add Bell Pepper and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Potato, Bread, Cumin",
+    "recipe": "Saut\u00e9ed Fish with Potato and Bread: 1. Prepare the Fish and Potato. 2. Heat pan and add Cumin. 3. Saut\u00e9 the Fish for 10 mins. 4. Add Potato and serve with Bread."
+  },
+  {
+    "ingredients": "Fish, Tomato, Bread, Soy Sauce",
+    "recipe": "Grilled Fish with Tomato and Bread: 1. Prepare the Fish and Tomato. 2. Heat pan and add Soy Sauce. 3. Grill the Fish for 10 mins. 4. Add Tomato and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Spinach, Quinoa, Salt",
+    "recipe": "Bakeed Chicken with Spinach and Quinoa: 1. Prepare the Chicken and Spinach. 2. Heat pan and add Salt. 3. Bake the Chicken for 10 mins. 4. Add Spinach and serve with Quinoa."
+  },
+  {
+    "ingredients": "Paneer, Bell Pepper, Bread, Soy Sauce",
+    "recipe": "Saut\u00e9ed Paneer with Bell Pepper and Bread: 1. Prepare the Paneer and Bell Pepper. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Paneer for 10 mins. 4. Add Bell Pepper and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Carrot, Noodles, Turmeric",
+    "recipe": "Boiled Chicken with Carrot and Noodles: 1. Prepare the Chicken and Carrot. 2. Heat pan and add Turmeric. 3. Boil the Chicken for 10 mins. 4. Add Carrot and serve with Noodles."
+  },
+  {
+    "ingredients": "Chicken, Bell Pepper, Noodles, Pepper",
+    "recipe": "Fryed Chicken with Bell Pepper and Noodles: 1. Prepare the Chicken and Bell Pepper. 2. Heat pan and add Pepper. 3. Fry the Chicken for 10 mins. 4. Add Bell Pepper and serve with Noodles."
+  },
+  {
+    "ingredients": "Paneer, Spinach, Pasta, Cumin",
+    "recipe": "Saut\u00e9ed Paneer with Spinach and Pasta: 1. Prepare the Paneer and Spinach. 2. Heat pan and add Cumin. 3. Saut\u00e9 the Paneer for 10 mins. 4. Add Spinach and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Tomato, Pasta, Cumin",
+    "recipe": "Fryed Paneer with Tomato and Pasta: 1. Prepare the Paneer and Tomato. 2. Heat pan and add Cumin. 3. Fry the Paneer for 10 mins. 4. Add Tomato and serve with Pasta."
+  },
+  {
+    "ingredients": "Paneer, Tomato, Quinoa, Cumin",
+    "recipe": "Grilled Paneer with Tomato and Quinoa: 1. Prepare the Paneer and Tomato. 2. Heat pan and add Cumin. 3. Grill the Paneer for 10 mins. 4. Add Tomato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Carrot, Noodles, Soy Sauce",
+    "recipe": "Steamed Fish with Carrot and Noodles: 1. Prepare the Fish and Carrot. 2. Heat pan and add Soy Sauce. 3. Steam the Fish for 10 mins. 4. Add Carrot and serve with Noodles."
+  },
+  {
+    "ingredients": "Paneer, Spinach, Pasta, Ginger",
+    "recipe": "Grilled Paneer with Spinach and Pasta: 1. Prepare the Paneer and Spinach. 2. Heat pan and add Ginger. 3. Grill the Paneer for 10 mins. 4. Add Spinach and serve with Pasta."
+  },
+  {
+    "ingredients": "Egg, Spinach, Pasta, Ginger",
+    "recipe": "Saut\u00e9ed Egg with Spinach and Pasta: 1. Prepare the Egg and Spinach. 2. Heat pan and add Ginger. 3. Saut\u00e9 the Egg for 10 mins. 4. Add Spinach and serve with Pasta."
+  },
+  {
+    "ingredients": "Chicken, Bell Pepper, Quinoa, Garlic",
+    "recipe": "Bakeed Chicken with Bell Pepper and Quinoa: 1. Prepare the Chicken and Bell Pepper. 2. Heat pan and add Garlic. 3. Bake the Chicken for 10 mins. 4. Add Bell Pepper and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Bell Pepper, Noodles, Soy Sauce",
+    "recipe": "Fryed Fish with Bell Pepper and Noodles: 1. Prepare the Fish and Bell Pepper. 2. Heat pan and add Soy Sauce. 3. Fry the Fish for 10 mins. 4. Add Bell Pepper and serve with Noodles."
+  },
+  {
+    "ingredients": "Chicken, Potato, Pasta, Ginger",
+    "recipe": "Boiled Chicken with Potato and Pasta: 1. Prepare the Chicken and Potato. 2. Heat pan and add Ginger. 3. Boil the Chicken for 10 mins. 4. Add Potato and serve with Pasta."
+  },
+  {
+    "ingredients": "Tofu, Peas, Bread, Cumin",
+    "recipe": "Steamed Tofu with Peas and Bread: 1. Prepare the Tofu and Peas. 2. Heat pan and add Cumin. 3. Steam the Tofu for 10 mins. 4. Add Peas and serve with Bread."
+  },
+  {
+    "ingredients": "Egg, Carrot, Bread, Cumin",
+    "recipe": "Boiled Egg with Carrot and Bread: 1. Prepare the Egg and Carrot. 2. Heat pan and add Cumin. 3. Boil the Egg for 10 mins. 4. Add Carrot and serve with Bread."
+  },
+  {
+    "ingredients": "Chicken, Potato, Quinoa, Ginger",
+    "recipe": "Saut\u00e9ed Chicken with Potato and Quinoa: 1. Prepare the Chicken and Potato. 2. Heat pan and add Ginger. 3. Saut\u00e9 the Chicken for 10 mins. 4. Add Potato and serve with Quinoa."
+  },
+  {
+    "ingredients": "Fish, Peas, Noodles, Turmeric",
+    "recipe": "Boiled Fish with Peas and Noodles: 1. Prepare the Fish and Peas. 2. Heat pan and add Turmeric. 3. Boil the Fish for 10 mins. 4. Add Peas and serve with Noodles."
+  },
+  {
+    "ingredients": "Fish, Tomato, Pasta, Ginger",
+    "recipe": "Fryed Fish with Tomato and Pasta: 1. Prepare the Fish and Tomato. 2. Heat pan and add Ginger. 3. Fry the Fish for 10 mins. 4. Add Tomato and serve with Pasta."
+  },
+  {
+    "ingredients": "Tofu, Tomato, Pasta, Cumin",
+    "recipe": "Fryed Tofu with Tomato and Pasta: 1. Prepare the Tofu and Tomato. 2. Heat pan and add Cumin. 3. Fry the Tofu for 10 mins. 4. Add Tomato and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Carrot, Noodles, Salt",
+    "recipe": "Saut\u00e9ed Beef with Carrot and Noodles: 1. Prepare the Beef and Carrot. 2. Heat pan and add Salt. 3. Saut\u00e9 the Beef for 10 mins. 4. Add Carrot and serve with Noodles."
+  },
+  {
+    "ingredients": "Egg, Onion, Noodles, Garlic",
+    "recipe": "Steamed Egg with Onion and Noodles: 1. Prepare the Egg and Onion. 2. Heat pan and add Garlic. 3. Steam the Egg for 10 mins. 4. Add Onion and serve with Noodles."
+  },
+  {
+    "ingredients": "Egg, Peas, Pasta, Soy Sauce",
+    "recipe": "Saut\u00e9ed Egg with Peas and Pasta: 1. Prepare the Egg and Peas. 2. Heat pan and add Soy Sauce. 3. Saut\u00e9 the Egg for 10 mins. 4. Add Peas and serve with Pasta."
+  },
+  {
+    "ingredients": "Tofu, Bell Pepper, Pasta, Garlic",
+    "recipe": "Bakeed Tofu with Bell Pepper and Pasta: 1. Prepare the Tofu and Bell Pepper. 2. Heat pan and add Garlic. 3. Bake the Tofu for 10 mins. 4. Add Bell Pepper and serve with Pasta."
+  },
+  {
+    "ingredients": "Chicken, Carrot, Pasta, Salt",
+    "recipe": "Steamed Chicken with Carrot and Pasta: 1. Prepare the Chicken and Carrot. 2. Heat pan and add Salt. 3. Steam the Chicken for 10 mins. 4. Add Carrot and serve with Pasta."
+  },
+  {
+    "ingredients": "Beef, Carrot, Noodles, Cumin",
+    "recipe": "Grilled Beef with Carrot and Noodles: 1. Prepare the Beef and Carrot. 2. Heat pan and add Cumin. 3. Grill the Beef for 10 mins. 4. Add Carrot and serve with Noodles."
+  }
+]
