@@ -1,5 +1,8 @@
 # **🍳 Local AI Recipe Chatbot (CPU Optimized)**
 
+Deployed Website Link :- [https://receipebotjanardan.streamlit.app/](https://receipebotjanardan.streamlit.app/)  
+Public GitHub Repository Link :-  https://github.com/Janardan3satpathy/Receipe\_bot
+
 ## **📌 Problem Statement**
 
 **Objective:** Set up an AI model on a local server, fine-tune it, and build a chatbot interface.
